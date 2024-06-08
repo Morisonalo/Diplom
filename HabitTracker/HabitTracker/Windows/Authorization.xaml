@@ -1,0 +1,37 @@
+﻿<Window x:Class="HabitTracker.Windows.Authorization"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:HabitTracker.Windows"
+        xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+        mc:Ignorable="d"
+        Title="Authorization" 
+        Height="700"
+        Width="1000"
+        AllowsTransparency="True"
+        WindowStartupLocation="CenterScreen"
+        WindowStyle="None"
+        Background="Transparent"
+        >
+    <Grid>
+
+        <Grid >
+
+            <Border Background="#ffffff" CornerRadius="40" Margin="141,48,220,178"/>
+            <TextBox materialDesign:HintAssist.Hint="Введите логин" Style="{StaticResource MaterialDesignFloatingHintTextBox}"  x:Name="Login" Margin="294,245,374,405"/>
+            <TextBox materialDesign:HintAssist.Hint="Введите пароль" Style="{StaticResource MaterialDesignFloatingHintTextBox}" x:Name="Password1" Margin="294,310,374,343"/>
+
+            <Button x:Name="ButtonAutho" Content="Войти" Height="49" Width="160" Margin="380,382,460,268" Click="ButtonAutho_Click"/>
+            <TextBlock x:Name="TextBlockReg" HorizontalAlignment="Left" Foreground="Black" TextDecorations="Underline" MouseUp="TextBlockReg_MouseUp" Margin="407,453,0,224"><Run Text="Нет учетной записи"/></TextBlock>
+
+        </Grid>
+        <Border MinWidth="400" Margin="255,128,343,0" Background="#FF673AB7" VerticalAlignment="Top" Padding="20" MaxWidth="550" CornerRadius="30"  Height="59">
+
+            <Border.Effect>
+                <DropShadowEffect BlurRadius="30" Color="LightGray" ShadowDepth="0"/>
+            </Border.Effect>
+            <TextBlock HorizontalAlignment="Center" TextWrapping="Wrap" Text="Приветствую вас"   FontWeight="Bold" Foreground="White" FontSize="22" Margin="0,0,0,-5" FontFamily="Arial Black"/>
+        </Border>
+    </Grid>
+</Window>

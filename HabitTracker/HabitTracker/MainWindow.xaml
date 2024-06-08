@@ -1,0 +1,76 @@
+﻿<Window x:Class="HabitTracker.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:HabitTracker"
+        mc:Ignorable="d"
+        Title="MainWindow"
+        Height="700"
+        Width="1000"
+        AllowsTransparency="True"
+        WindowStartupLocation="CenterScreen"
+        WindowStyle="None"
+        Background="Transparent"
+        >
+    <Grid>
+        <Border Background="#ffffff"
+                CornerRadius="30">
+            <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="0.1*"/>
+                    <ColumnDefinition/>
+                </Grid.ColumnDefinitions>
+                <Border  Background="#ffdadada" CornerRadius="30,0,0,30">
+                    <StackPanel>
+
+                        <Button x:Name="User" Click="User_Click" Height="28" Width="28" BorderBrush="{x:Null}" Margin="0,32,0,0" ToolTip="Личный кабинет" Foreground="{x:Null}">
+                            <Button.Background>
+                                <ImageBrush ImageSource="/free-icon-male-user-shadow-16480.png"/>
+                            </Button.Background>
+                            <Image Source="/Image/male-user-shadow (1).png"  />
+                        </Button>
+                        <Button x:Name="Timer" Height="28" Width="28" Margin="0,35,0,0" Foreground="{x:Null}" BorderBrush="{x:Null}" ToolTip="Таймер" Click="Timer_Click">
+                            <Button.Background>
+                                <ImageBrush ImageSource="/free-icon-timer-1827484.png"/>
+                            </Button.Background>
+                            <Image Source="/Image/dots.png" ></Image>
+                        </Button>
+
+                        <Button x:Name="Habit" Height="28" Width="28" Margin="0,36,0,0" BorderBrush="{x:Null}" ToolTip="Привычки" Click="Habit_Click">
+                            <Button.Background>
+                                <ImageBrush ImageSource="/free-icon-changes-9038160.png"/>
+                            </Button.Background>
+                            <Image Source="/Image/goals (1).png"></Image>
+                        </Button>
+
+                        <Button x:Name="Matrix" Height="28" Width="28" Margin="0,40,0,0" BorderBrush="{x:Null}" ToolTip="Матрица Эйзенхаузера" Click="Matrix_Click">
+                            <Button.Background>
+                                <ImageBrush ImageSource="/free-icon-locator-1150947.png"/>
+                            </Button.Background>
+                            <Image Source="/Image/locator.png"  ></Image>
+                        </Button>
+
+                        <StackPanel Orientation="Horizontal" Margin="0,360,0,0" HorizontalAlignment="Center">
+                            <Button x:Name="Close" Height="20" Width="20" BorderBrush="{x:Null}" ToolTip="Закрыть приложение" Click="Close_Click" RenderTransformOrigin="0.552,0.55" >
+                                <Button.Background>
+                                    <ImageBrush ImageSource="/free-icon-close-cross-64498 (1).png"/>
+                                </Button.Background>
+                                <Image Source="/Image/close-cross.png"/>
+                            </Button>
+
+                        </StackPanel>
+                    </StackPanel>
+                </Border>
+            </Grid>
+        </Border>
+        <Button Content="" HorizontalAlignment="Left" Margin="33,648,0,0" VerticalAlignment="Top" Width="29" BorderBrush="{x:Null}" Foreground="{x:Null}" Height="28" Click="Button_Click">
+            <Button.Background>
+                <ImageBrush ImageSource="/free-icon-exit-603069.png"/>
+            </Button.Background>
+        </Button>
+    </Grid>
+
+
+
+</Window>

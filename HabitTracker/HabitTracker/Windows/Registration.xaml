@@ -1,0 +1,73 @@
+﻿<Window x:Class="HabitTracker.Windows.Registration"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:HabitTracker.Windows"
+        xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+        mc:Ignorable="d"
+        Title="Registration"
+        Height="700"
+        Width="1000"
+        AllowsTransparency="True"
+        WindowStartupLocation="CenterScreen"
+        WindowStyle="None"
+        Background="Transparent"
+        >
+    <Grid>
+
+        <Grid>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+            </Grid.ColumnDefinitions>
+            <Border Background="#ffffff" CornerRadius="40" Margin="250,22,250,133" Grid.ColumnSpan="2"/>
+
+
+            <TextBlock TextWrapping="Wrap" Text="Регистрация" Height="63" Width="368" Foreground="#FF040404" FontSize="48" TextAlignment="Center" FontWeight="Bold" Grid.ColumnSpan="2" Margin="316,47,316,590"/>
+
+
+            <TextBox x:Name="Name1"  materialDesign:HintAssist.Hint="Введите Имя" Style="{StaticResource MaterialDesignFloatingHintTextBox}" Grid.ColumnSpan="2" Margin="355,116,360,538"/>
+
+
+
+            <TextBox x:Name="Surname1" materialDesign:HintAssist.Hint="Введите Фамилию" Style="{StaticResource MaterialDesignFloatingHintTextBox}" Grid.ColumnSpan="2" Margin="355,162,360,492"/>
+
+
+
+
+            <TextBox x:Name="MiddleName" materialDesign:HintAssist.Hint="Введите Отчество" Style="{StaticResource MaterialDesignFloatingHintTextBox}" Grid.ColumnSpan="2" Margin="355,208,360,446"/>
+
+
+
+
+
+            <TextBox x:Name="Telephone" materialDesign:HintAssist.Hint="Введите Телефон" Style="{StaticResource MaterialDesignFloatingHintTextBox}" Margin="355,254,360,400" Grid.ColumnSpan="2"/>
+
+
+
+
+
+            <TextBox x:Name="Login" materialDesign:HintAssist.Hint="Введите Логин" Style="{StaticResource MaterialDesignFloatingHintTextBox}" Grid.ColumnSpan="2" Margin="355,300,360,354"/>
+
+
+
+
+
+            <TextBox x:Name="Password" materialDesign:HintAssist.Hint="Введите Пароль" Style="{StaticResource MaterialDesignFloatingHintTextBox}" Margin="355,346,360,308" Grid.ColumnSpan="2"/>
+
+
+            <Button x:Name="ButtonAutho" Content="Зарегистрироваться" Height="49" Margin="420,443,405,208" Click="ButtonAutho_Click" Grid.ColumnSpan="2"/>
+
+
+        </Grid>
+
+
+
+
+
+
+
+
+    </Grid>
+</Window>

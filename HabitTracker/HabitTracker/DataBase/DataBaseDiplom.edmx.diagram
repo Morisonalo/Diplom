@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="d176e94bfff94d1d9804a4beada9e74d" Name="Diagram1">
+        <EntityTypeShape EntityType="user187_dbModel.Diplom_Habit" Width="1.5" PointX="10.75" PointY="2" />
+        <EntityTypeShape EntityType="user187_dbModel.Diplom_Note" Width="1.5" PointX="7.625" PointY="3.75" />
+        <EntityTypeShape EntityType="user187_dbModel.Diplom_Type_habit" Width="1.5" PointX="11.5" PointY="6" />
+        <EntityTypeShape EntityType="user187_dbModel.Diplom_UserRole" Width="1.5" PointX="0.75" PointY="5" />
+        <EntityTypeShape EntityType="user187_dbModel.Diplom_Users" Width="1.5" PointX="4.25" PointY="3.25" />
+        <EntityTypeShape EntityType="user187_dbModel.Diplom_Users_Habit" Width="1.5" PointX="4.75" PointY="7.5" />
+        <AssociationConnector Association="user187_dbModel.FK_Diplom_Habit_Diplom_Type_habit" />
+        <AssociationConnector Association="user187_dbModel.FK_Diplom_Users_Habit_Diplom_Habit" />
+        <AssociationConnector Association="user187_dbModel.FK_Diplom_Note_Diplom_Users" />
+        <AssociationConnector Association="user187_dbModel.FK_Diplom_Users_Diplom_UserRole" />
+        <AssociationConnector Association="user187_dbModel.FK_Diplom_Users_Habit_Diplom_Users" />
+        <EntityTypeShape EntityType="user187_dbModel.Note_Type" Width="1.5" PointX="0.75" PointY="0.875" />
+        <AssociationConnector Association="user187_dbModel.FK_Diplom_Note_Note_Type" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

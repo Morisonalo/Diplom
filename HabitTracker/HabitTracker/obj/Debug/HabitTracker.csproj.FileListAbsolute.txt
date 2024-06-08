@@ -1,0 +1,342 @@
+C:\Users\moris\OneDrive\Рабочий стол\Дипломный проект Жубя Даниил ИС1-45\Приложение\DiplomPrilozhenie\HabitTracker\HabitTracker\bin\Debug\HabitTracker.exe.config
+C:\Users\moris\OneDrive\Рабочий стол\Дипломный проект Жубя Даниил ИС1-45\Приложение\DiplomPrilozhenie\HabitTracker\HabitTracker\bin\Debug\HabitTracker.exe
+C:\Users\moris\OneDrive\Рабочий стол\Дипломный проект Жубя Даниил ИС1-45\Приложение\DiplomPrilozhenie\HabitTracker\HabitTracker\bin\Debug\HabitTracker.pdb
+C:\Users\moris\OneDrive\Рабочий стол\Дипломный проект Жубя Даниил ИС1-45\Приложение\DiplomPrilozhenie\HabitTracker\HabitTracker\obj\Debug\HabitTracker.csproj.AssemblyReference.cache
+C:\Users\moris\OneDrive\Рабочий стол\Дипломный проект Жубя Даниил ИС1-45\Приложение\DiplomPrilozhenie\HabitTracker\HabitTracker\obj\Debug\MainWindow.g.cs
+C:\Users\moris\OneDrive\Рабочий стол\Дипломный проект Жубя Даниил ИС1-45\Приложение\DiplomPrilozhenie\HabitTracker\HabitTracker\obj\Debug\App.g.cs
+C:\Users\moris\OneDrive\Рабочий стол\Дипломный проект Жубя Даниил ИС1-45\Приложение\DiplomPrilozhenie\HabitTracker\HabitTracker\obj\Debug\HabitTracker_MarkupCompile.cache
+C:\Users\moris\OneDrive\Рабочий стол\Дипломный проект Жубя Даниил ИС1-45\Приложение\DiplomPrilozhenie\HabitTracker\HabitTracker\obj\Debug\HabitTracker_MarkupCompile.lref
+C:\Users\moris\OneDrive\Рабочий стол\Дипломный проект Жубя Даниил ИС1-45\Приложение\DiplomPrilozhenie\HabitTracker\HabitTracker\obj\Debug\MainWindow.baml
+C:\Users\moris\OneDrive\Рабочий стол\Дипломный проект Жубя Даниил ИС1-45\Приложение\DiplomPrilozhenie\HabitTracker\HabitTracker\obj\Debug\HabitTracker.g.resources
+C:\Users\moris\OneDrive\Рабочий стол\Дипломный проект Жубя Даниил ИС1-45\Приложение\DiplomPrilozhenie\HabitTracker\HabitTracker\obj\Debug\HabitTracker.Properties.Resources.resources
+C:\Users\moris\OneDrive\Рабочий стол\Дипломный проект Жубя Даниил ИС1-45\Приложение\DiplomPrilozhenie\HabitTracker\HabitTracker\obj\Debug\HabitTracker.csproj.GenerateResource.cache
+C:\Users\moris\OneDrive\Рабочий стол\Дипломный проект Жубя Даниил ИС1-45\Приложение\DiplomPrilozhenie\HabitTracker\HabitTracker\obj\Debug\HabitTracker.csproj.CoreCompileInputs.cache
+C:\Users\moris\OneDrive\Рабочий стол\Дипломный проект Жубя Даниил ИС1-45\Приложение\DiplomPrilozhenie\HabitTracker\HabitTracker\obj\Debug\HabitTracker.exe
+C:\Users\moris\OneDrive\Рабочий стол\Дипломный проект Жубя Даниил ИС1-45\Приложение\DiplomPrilozhenie\HabitTracker\HabitTracker\obj\Debug\HabitTracker.pdb
+C:\Users\moris\OneDrive\Рабочий стол\Дипломный проект Жубя Даниил ИС1-45\Приложение\DiplomPrilozhenie\HabitTracker\HabitTracker\obj\Debug\Windows\Authorization.g.cs
+C:\Users\moris\OneDrive\Рабочий стол\Дипломный проект Жубя Даниил ИС1-45\Приложение\DiplomPrilozhenie\HabitTracker\HabitTracker\obj\Debug\Windows\Registration.g.cs
+C:\Users\moris\OneDrive\Рабочий стол\Дипломный проект Жубя Даниил ИС1-45\Приложение\DiplomPrilozhenie\HabitTracker\HabitTracker\obj\Debug\Windows\Authorization.baml
+C:\Users\moris\OneDrive\Рабочий стол\Дипломный проект Жубя Даниил ИС1-45\Приложение\DiplomPrilozhenie\HabitTracker\HabitTracker\obj\Debug\Windows\Registration.baml
+C:\Users\moris\OneDrive\Рабочий стол\Дипломный проект Жубя Даниил ИС1-45\Приложение\DiplomPrilozhenie\HabitTracker\HabitTracker\bin\Debug\EntityFramework.dll
+C:\Users\moris\OneDrive\Рабочий стол\Дипломный проект Жубя Даниил ИС1-45\Приложение\DiplomPrilozhenie\HabitTracker\HabitTracker\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\moris\OneDrive\Рабочий стол\Дипломный проект Жубя Даниил ИС1-45\Приложение\DiplomPrilozhenie\HabitTracker\HabitTracker\bin\Debug\EntityFramework.xml
+C:\Users\moris\OneDrive\Рабочий стол\Дипломный проект Жубя Даниил ИС1-45\Приложение\DiplomPrilozhenie\HabitTracker\HabitTracker\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\moris\OneDrive\Рабочий стол\Дипломный проект Жубя Даниил ИС1-45\Приложение\DiplomPrilozhenie\HabitTracker\HabitTracker\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\moris\OneDrive\Рабочий стол\Дипломный проект Жубя Даниил ИС1-45\Приложение\DiplomPrilozhenie\HabitTracker\HabitTracker\obj\Debug\HabitTracker_Content.g.cs
+C:\Users\moris\OneDrive\Рабочий стол\Дипломный проект Жубя Даниил ИС1-45\Приложение\DiplomPrilozhenie\HabitTracker\HabitTracker\obj\Debug\HabitTracker.csproj.CopyComplete
+C:\Users\moris\OneDrive\Рабочий стол\Дипломный проект Жубя Даниил ИС1-45\Приложение\DiplomPrilozhenie\HabitTracker\HabitTracker\obj\Debug\Image\Profile.g.cs
+C:\Users\moris\OneDrive\Рабочий стол\Дипломный проект Жубя Даниил ИС1-45\Приложение\DiplomPrilozhenie\HabitTracker\HabitTracker\obj\Debug\Windows\Habit.g.cs
+C:\Users\moris\OneDrive\Рабочий стол\Дипломный проект Жубя Даниил ИС1-45\Приложение\DiplomPrilozhenie\HabitTracker\HabitTracker\obj\Debug\Windows\Matrix.g.cs
+C:\Users\moris\OneDrive\Рабочий стол\Дипломный проект Жубя Даниил ИС1-45\Приложение\DiplomPrilozhenie\HabitTracker\HabitTracker\obj\Debug\Windows\Timer.g.cs
+C:\Users\moris\OneDrive\Рабочий стол\Дипломный проект Жубя Даниил ИС1-45\Приложение\DiplomPrilozhenie\HabitTracker\HabitTracker\obj\Debug\Windows\User.g.cs
+C:\Users\moris\OneDrive\Рабочий стол\Дипломный проект Жубя Даниил ИС1-45\Приложение\DiplomPrilozhenie\HabitTracker\HabitTracker\obj\Debug\Image\Profile.baml
+C:\Users\moris\OneDrive\Рабочий стол\Дипломный проект Жубя Даниил ИС1-45\Приложение\DiplomPrilozhenie\HabitTracker\HabitTracker\obj\Debug\Windows\Habit.baml
+C:\Users\moris\OneDrive\Рабочий стол\Дипломный проект Жубя Даниил ИС1-45\Приложение\DiplomPrilozhenie\HabitTracker\HabitTracker\obj\Debug\Windows\Matrix.baml
+C:\Users\moris\OneDrive\Рабочий стол\Дипломный проект Жубя Даниил ИС1-45\Приложение\DiplomPrilozhenie\HabitTracker\HabitTracker\obj\Debug\Windows\Timer.baml
+C:\Users\moris\OneDrive\Рабочий стол\Дипломный проект Жубя Даниил ИС1-45\Приложение\DiplomPrilozhenie\HabitTracker\HabitTracker\obj\Debug\Windows\User.baml
+C:\Users\moris\OneDrive\Рабочий стол\Дипломный проект Жубя Даниил ИС1-45 — копия\Приложение\DiplomPrilozhenie\HabitTracker\HabitTracker\bin\Debug\HabitTracker.exe.config
+C:\Users\moris\OneDrive\Рабочий стол\Дипломный проект Жубя Даниил ИС1-45 — копия\Приложение\DiplomPrilozhenie\HabitTracker\HabitTracker\bin\Debug\HabitTracker.exe
+C:\Users\moris\OneDrive\Рабочий стол\Дипломный проект Жубя Даниил ИС1-45 — копия\Приложение\DiplomPrilozhenie\HabitTracker\HabitTracker\bin\Debug\HabitTracker.pdb
+C:\Users\moris\OneDrive\Рабочий стол\Дипломный проект Жубя Даниил ИС1-45 — копия\Приложение\DiplomPrilozhenie\HabitTracker\HabitTracker\bin\Debug\EntityFramework.dll
+C:\Users\moris\OneDrive\Рабочий стол\Дипломный проект Жубя Даниил ИС1-45 — копия\Приложение\DiplomPrilozhenie\HabitTracker\HabitTracker\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\moris\OneDrive\Рабочий стол\Дипломный проект Жубя Даниил ИС1-45 — копия\Приложение\DiplomPrilozhenie\HabitTracker\HabitTracker\bin\Debug\EntityFramework.xml
+C:\Users\moris\OneDrive\Рабочий стол\Дипломный проект Жубя Даниил ИС1-45 — копия\Приложение\DiplomPrilozhenie\HabitTracker\HabitTracker\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\moris\OneDrive\Рабочий стол\Дипломный проект Жубя Даниил ИС1-45 — копия\Приложение\DiplomPrilozhenie\HabitTracker\HabitTracker\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\moris\OneDrive\Рабочий стол\Дипломный проект Жубя Даниил ИС1-45 — копия\Приложение\DiplomPrilozhenie\HabitTracker\HabitTracker\obj\Debug\HabitTracker.csproj.AssemblyReference.cache
+C:\Users\moris\OneDrive\Рабочий стол\Дипломный проект Жубя Даниил ИС1-45 — копия\Приложение\DiplomPrilozhenie\HabitTracker\HabitTracker\obj\Debug\Image\Profile.g.cs
+C:\Users\moris\OneDrive\Рабочий стол\Дипломный проект Жубя Даниил ИС1-45 — копия\Приложение\DiplomPrilozhenie\HabitTracker\HabitTracker\obj\Debug\MainWindow.g.cs
+C:\Users\moris\OneDrive\Рабочий стол\Дипломный проект Жубя Даниил ИС1-45 — копия\Приложение\DiplomPrilozhenie\HabitTracker\HabitTracker\obj\Debug\Windows\Authorization.g.cs
+C:\Users\moris\OneDrive\Рабочий стол\Дипломный проект Жубя Даниил ИС1-45 — копия\Приложение\DiplomPrilozhenie\HabitTracker\HabitTracker\obj\Debug\Windows\Habit.g.cs
+C:\Users\moris\OneDrive\Рабочий стол\Дипломный проект Жубя Даниил ИС1-45 — копия\Приложение\DiplomPrilozhenie\HabitTracker\HabitTracker\obj\Debug\Windows\Matrix.g.cs
+C:\Users\moris\OneDrive\Рабочий стол\Дипломный проект Жубя Даниил ИС1-45 — копия\Приложение\DiplomPrilozhenie\HabitTracker\HabitTracker\obj\Debug\Windows\Registration.g.cs
+C:\Users\moris\OneDrive\Рабочий стол\Дипломный проект Жубя Даниил ИС1-45 — копия\Приложение\DiplomPrilozhenie\HabitTracker\HabitTracker\obj\Debug\Windows\Timer.g.cs
+C:\Users\moris\OneDrive\Рабочий стол\Дипломный проект Жубя Даниил ИС1-45 — копия\Приложение\DiplomPrilozhenie\HabitTracker\HabitTracker\obj\Debug\Windows\User.g.cs
+C:\Users\moris\OneDrive\Рабочий стол\Дипломный проект Жубя Даниил ИС1-45 — копия\Приложение\DiplomPrilozhenie\HabitTracker\HabitTracker\obj\Debug\App.g.cs
+C:\Users\moris\OneDrive\Рабочий стол\Дипломный проект Жубя Даниил ИС1-45 — копия\Приложение\DiplomPrilozhenie\HabitTracker\HabitTracker\obj\Debug\HabitTracker_Content.g.cs
+C:\Users\moris\OneDrive\Рабочий стол\Дипломный проект Жубя Даниил ИС1-45 — копия\Приложение\DiplomPrilozhenie\HabitTracker\HabitTracker\obj\Debug\HabitTracker_MarkupCompile.cache
+C:\Users\moris\OneDrive\Рабочий стол\Дипломный проект Жубя Даниил ИС1-45 — копия\Приложение\DiplomPrilozhenie\HabitTracker\HabitTracker\obj\Debug\HabitTracker_MarkupCompile.lref
+C:\Users\moris\OneDrive\Рабочий стол\Дипломный проект Жубя Даниил ИС1-45 — копия\Приложение\DiplomPrilozhenie\HabitTracker\HabitTracker\obj\Debug\Image\Profile.baml
+C:\Users\moris\OneDrive\Рабочий стол\Дипломный проект Жубя Даниил ИС1-45 — копия\Приложение\DiplomPrilozhenie\HabitTracker\HabitTracker\obj\Debug\MainWindow.baml
+C:\Users\moris\OneDrive\Рабочий стол\Дипломный проект Жубя Даниил ИС1-45 — копия\Приложение\DiplomPrilozhenie\HabitTracker\HabitTracker\obj\Debug\Windows\Authorization.baml
+C:\Users\moris\OneDrive\Рабочий стол\Дипломный проект Жубя Даниил ИС1-45 — копия\Приложение\DiplomPrilozhenie\HabitTracker\HabitTracker\obj\Debug\Windows\Habit.baml
+C:\Users\moris\OneDrive\Рабочий стол\Дипломный проект Жубя Даниил ИС1-45 — копия\Приложение\DiplomPrilozhenie\HabitTracker\HabitTracker\obj\Debug\Windows\Matrix.baml
+C:\Users\moris\OneDrive\Рабочий стол\Дипломный проект Жубя Даниил ИС1-45 — копия\Приложение\DiplomPrilozhenie\HabitTracker\HabitTracker\obj\Debug\Windows\Registration.baml
+C:\Users\moris\OneDrive\Рабочий стол\Дипломный проект Жубя Даниил ИС1-45 — копия\Приложение\DiplomPrilozhenie\HabitTracker\HabitTracker\obj\Debug\Windows\Timer.baml
+C:\Users\moris\OneDrive\Рабочий стол\Дипломный проект Жубя Даниил ИС1-45 — копия\Приложение\DiplomPrilozhenie\HabitTracker\HabitTracker\obj\Debug\Windows\User.baml
+C:\Users\moris\OneDrive\Рабочий стол\Дипломный проект Жубя Даниил ИС1-45 — копия\Приложение\DiplomPrilozhenie\HabitTracker\HabitTracker\obj\Debug\HabitTracker.g.resources
+C:\Users\moris\OneDrive\Рабочий стол\Дипломный проект Жубя Даниил ИС1-45 — копия\Приложение\DiplomPrilozhenie\HabitTracker\HabitTracker\obj\Debug\HabitTracker.Properties.Resources.resources
+C:\Users\moris\OneDrive\Рабочий стол\Дипломный проект Жубя Даниил ИС1-45 — копия\Приложение\DiplomPrilozhenie\HabitTracker\HabitTracker\obj\Debug\HabitTracker.csproj.GenerateResource.cache
+C:\Users\moris\OneDrive\Рабочий стол\Дипломный проект Жубя Даниил ИС1-45 — копия\Приложение\DiplomPrilozhenie\HabitTracker\HabitTracker\obj\Debug\HabitTracker.csproj.CoreCompileInputs.cache
+C:\Users\moris\OneDrive\Рабочий стол\Дипломный проект Жубя Даниил ИС1-45 — копия\Приложение\DiplomPrilozhenie\HabitTracker\HabitTracker\obj\Debug\HabitTracker.csproj.CopyComplete
+C:\Users\moris\OneDrive\Рабочий стол\Дипломный проект Жубя Даниил ИС1-45 — копия\Приложение\DiplomPrilozhenie\HabitTracker\HabitTracker\obj\Debug\HabitTracker.exe
+C:\Users\moris\OneDrive\Рабочий стол\Дипломный проект Жубя Даниил ИС1-45 — копия\Приложение\DiplomPrilozhenie\HabitTracker\HabitTracker\obj\Debug\HabitTracker.pdb
+C:\Users\moris\OneDrive\Рабочий стол\Приложение\DiplomPrilozhenie\HabitTracker\HabitTracker\bin\Debug\HabitTracker.exe.config
+C:\Users\moris\OneDrive\Рабочий стол\Приложение\DiplomPrilozhenie\HabitTracker\HabitTracker\bin\Debug\HabitTracker.exe
+C:\Users\moris\OneDrive\Рабочий стол\Приложение\DiplomPrilozhenie\HabitTracker\HabitTracker\bin\Debug\HabitTracker.pdb
+C:\Users\moris\OneDrive\Рабочий стол\Приложение\DiplomPrilozhenie\HabitTracker\HabitTracker\bin\Debug\EntityFramework.dll
+C:\Users\moris\OneDrive\Рабочий стол\Приложение\DiplomPrilozhenie\HabitTracker\HabitTracker\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\moris\OneDrive\Рабочий стол\Приложение\DiplomPrilozhenie\HabitTracker\HabitTracker\bin\Debug\EntityFramework.xml
+C:\Users\moris\OneDrive\Рабочий стол\Приложение\DiplomPrilozhenie\HabitTracker\HabitTracker\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\moris\OneDrive\Рабочий стол\Приложение\DiplomPrilozhenie\HabitTracker\HabitTracker\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\moris\OneDrive\Рабочий стол\Приложение\DiplomPrilozhenie\HabitTracker\HabitTracker\obj\Debug\HabitTracker.csproj.AssemblyReference.cache
+C:\Users\moris\OneDrive\Рабочий стол\Приложение\DiplomPrilozhenie\HabitTracker\HabitTracker\obj\Debug\Image\Profile.g.cs
+C:\Users\moris\OneDrive\Рабочий стол\Приложение\DiplomPrilozhenie\HabitTracker\HabitTracker\obj\Debug\MainWindow.g.cs
+C:\Users\moris\OneDrive\Рабочий стол\Приложение\DiplomPrilozhenie\HabitTracker\HabitTracker\obj\Debug\Windows\Authorization.g.cs
+C:\Users\moris\OneDrive\Рабочий стол\Приложение\DiplomPrilozhenie\HabitTracker\HabitTracker\obj\Debug\Windows\Habit.g.cs
+C:\Users\moris\OneDrive\Рабочий стол\Приложение\DiplomPrilozhenie\HabitTracker\HabitTracker\obj\Debug\Windows\Matrix.g.cs
+C:\Users\moris\OneDrive\Рабочий стол\Приложение\DiplomPrilozhenie\HabitTracker\HabitTracker\obj\Debug\Windows\Registration.g.cs
+C:\Users\moris\OneDrive\Рабочий стол\Приложение\DiplomPrilozhenie\HabitTracker\HabitTracker\obj\Debug\Windows\Timer.g.cs
+C:\Users\moris\OneDrive\Рабочий стол\Приложение\DiplomPrilozhenie\HabitTracker\HabitTracker\obj\Debug\Windows\User.g.cs
+C:\Users\moris\OneDrive\Рабочий стол\Приложение\DiplomPrilozhenie\HabitTracker\HabitTracker\obj\Debug\App.g.cs
+C:\Users\moris\OneDrive\Рабочий стол\Приложение\DiplomPrilozhenie\HabitTracker\HabitTracker\obj\Debug\HabitTracker_Content.g.cs
+C:\Users\moris\OneDrive\Рабочий стол\Приложение\DiplomPrilozhenie\HabitTracker\HabitTracker\obj\Debug\HabitTracker_MarkupCompile.cache
+C:\Users\moris\OneDrive\Рабочий стол\Приложение\DiplomPrilozhenie\HabitTracker\HabitTracker\obj\Debug\HabitTracker_MarkupCompile.lref
+C:\Users\moris\OneDrive\Рабочий стол\Приложение\DiplomPrilozhenie\HabitTracker\HabitTracker\obj\Debug\Image\Profile.baml
+C:\Users\moris\OneDrive\Рабочий стол\Приложение\DiplomPrilozhenie\HabitTracker\HabitTracker\obj\Debug\MainWindow.baml
+C:\Users\moris\OneDrive\Рабочий стол\Приложение\DiplomPrilozhenie\HabitTracker\HabitTracker\obj\Debug\Windows\Authorization.baml
+C:\Users\moris\OneDrive\Рабочий стол\Приложение\DiplomPrilozhenie\HabitTracker\HabitTracker\obj\Debug\Windows\Habit.baml
+C:\Users\moris\OneDrive\Рабочий стол\Приложение\DiplomPrilozhenie\HabitTracker\HabitTracker\obj\Debug\Windows\Matrix.baml
+C:\Users\moris\OneDrive\Рабочий стол\Приложение\DiplomPrilozhenie\HabitTracker\HabitTracker\obj\Debug\Windows\Registration.baml
+C:\Users\moris\OneDrive\Рабочий стол\Приложение\DiplomPrilozhenie\HabitTracker\HabitTracker\obj\Debug\Windows\Timer.baml
+C:\Users\moris\OneDrive\Рабочий стол\Приложение\DiplomPrilozhenie\HabitTracker\HabitTracker\obj\Debug\Windows\User.baml
+C:\Users\moris\OneDrive\Рабочий стол\Приложение\DiplomPrilozhenie\HabitTracker\HabitTracker\obj\Debug\HabitTracker.g.resources
+C:\Users\moris\OneDrive\Рабочий стол\Приложение\DiplomPrilozhenie\HabitTracker\HabitTracker\obj\Debug\HabitTracker.Properties.Resources.resources
+C:\Users\moris\OneDrive\Рабочий стол\Приложение\DiplomPrilozhenie\HabitTracker\HabitTracker\obj\Debug\HabitTracker.csproj.GenerateResource.cache
+C:\Users\moris\OneDrive\Рабочий стол\Приложение\DiplomPrilozhenie\HabitTracker\HabitTracker\obj\Debug\HabitTracker.csproj.CoreCompileInputs.cache
+C:\Users\moris\OneDrive\Рабочий стол\Приложение\DiplomPrilozhenie\HabitTracker\HabitTracker\obj\Debug\HabitTracker.csproj.CopyComplete
+C:\Users\moris\OneDrive\Рабочий стол\Приложение\DiplomPrilozhenie\HabitTracker\HabitTracker\obj\Debug\HabitTracker.exe
+C:\Users\moris\OneDrive\Рабочий стол\Приложение\DiplomPrilozhenie\HabitTracker\HabitTracker\obj\Debug\HabitTracker.pdb
+C:\Users\moris\OneDrive\Рабочий стол\Приложение\DiplomPrilozhenie\HabitTracker\HabitTracker\obj\Debug\Windows\MatrixAdd.g.cs
+C:\Users\moris\OneDrive\Рабочий стол\Приложение\DiplomPrilozhenie\HabitTracker\HabitTracker\obj\Debug\Windows\MatrixAdd.baml
+C:\Users\moris\OneDrive\Рабочий стол\Приложение\DiplomPrilozhenie\HabitTracker\HabitTracker\obj\Debug\Windows\MatrixAdd2.g.cs
+C:\Users\moris\OneDrive\Рабочий стол\Приложение\DiplomPrilozhenie\HabitTracker\HabitTracker\obj\Debug\Windows\MatrixAdd3.g.cs
+C:\Users\moris\OneDrive\Рабочий стол\Приложение\DiplomPrilozhenie\HabitTracker\HabitTracker\obj\Debug\Windows\MatrixAdd4.g.cs
+C:\Users\moris\OneDrive\Рабочий стол\Приложение\DiplomPrilozhenie\HabitTracker\HabitTracker\obj\Debug\Windows\MatrixAdd2.baml
+C:\Users\moris\OneDrive\Рабочий стол\Приложение\DiplomPrilozhenie\HabitTracker\HabitTracker\obj\Debug\Windows\MatrixAdd3.baml
+C:\Users\moris\OneDrive\Рабочий стол\Приложение\DiplomPrilozhenie\HabitTracker\HabitTracker\obj\Debug\Windows\MatrixAdd4.baml
+C:\Users\moris\OneDrive\Рабочий стол\Дипломный проект Жубя Даниил ИС1-45 — копия\Приложение\Prilozhenie\Приложение\DiplomPrilozhenie\HabitTracker\HabitTracker\bin\Debug\HabitTracker.exe.config
+C:\Users\moris\OneDrive\Рабочий стол\Дипломный проект Жубя Даниил ИС1-45 — копия\Приложение\Prilozhenie\Приложение\DiplomPrilozhenie\HabitTracker\HabitTracker\bin\Debug\HabitTracker.exe
+C:\Users\moris\OneDrive\Рабочий стол\Дипломный проект Жубя Даниил ИС1-45 — копия\Приложение\Prilozhenie\Приложение\DiplomPrilozhenie\HabitTracker\HabitTracker\bin\Debug\HabitTracker.pdb
+C:\Users\moris\OneDrive\Рабочий стол\Дипломный проект Жубя Даниил ИС1-45 — копия\Приложение\Prilozhenie\Приложение\DiplomPrilozhenie\HabitTracker\HabitTracker\bin\Debug\EntityFramework.dll
+C:\Users\moris\OneDrive\Рабочий стол\Дипломный проект Жубя Даниил ИС1-45 — копия\Приложение\Prilozhenie\Приложение\DiplomPrilozhenie\HabitTracker\HabitTracker\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\moris\OneDrive\Рабочий стол\Дипломный проект Жубя Даниил ИС1-45 — копия\Приложение\Prilozhenie\Приложение\DiplomPrilozhenie\HabitTracker\HabitTracker\bin\Debug\EntityFramework.xml
+C:\Users\moris\OneDrive\Рабочий стол\Дипломный проект Жубя Даниил ИС1-45 — копия\Приложение\Prilozhenie\Приложение\DiplomPrilozhenie\HabitTracker\HabitTracker\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\moris\OneDrive\Рабочий стол\Дипломный проект Жубя Даниил ИС1-45 — копия\Приложение\Prilozhenie\Приложение\DiplomPrilozhenie\HabitTracker\HabitTracker\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\moris\OneDrive\Рабочий стол\Дипломный проект Жубя Даниил ИС1-45 — копия\Приложение\Prilozhenie\Приложение\DiplomPrilozhenie\HabitTracker\HabitTracker\obj\Debug\HabitTracker.csproj.AssemblyReference.cache
+C:\Users\moris\OneDrive\Рабочий стол\Дипломный проект Жубя Даниил ИС1-45 — копия\Приложение\Prilozhenie\Приложение\DiplomPrilozhenie\HabitTracker\HabitTracker\obj\Debug\Image\Profile.g.cs
+C:\Users\moris\OneDrive\Рабочий стол\Дипломный проект Жубя Даниил ИС1-45 — копия\Приложение\Prilozhenie\Приложение\DiplomPrilozhenie\HabitTracker\HabitTracker\obj\Debug\MainWindow.g.cs
+C:\Users\moris\OneDrive\Рабочий стол\Дипломный проект Жубя Даниил ИС1-45 — копия\Приложение\Prilozhenie\Приложение\DiplomPrilozhenie\HabitTracker\HabitTracker\obj\Debug\Windows\Authorization.g.cs
+C:\Users\moris\OneDrive\Рабочий стол\Дипломный проект Жубя Даниил ИС1-45 — копия\Приложение\Prilozhenie\Приложение\DiplomPrilozhenie\HabitTracker\HabitTracker\obj\Debug\Windows\Habit.g.cs
+C:\Users\moris\OneDrive\Рабочий стол\Дипломный проект Жубя Даниил ИС1-45 — копия\Приложение\Prilozhenie\Приложение\DiplomPrilozhenie\HabitTracker\HabitTracker\obj\Debug\Windows\Matrix.g.cs
+C:\Users\moris\OneDrive\Рабочий стол\Дипломный проект Жубя Даниил ИС1-45 — копия\Приложение\Prilozhenie\Приложение\DiplomPrilozhenie\HabitTracker\HabitTracker\obj\Debug\Windows\MatrixAdd.g.cs
+C:\Users\moris\OneDrive\Рабочий стол\Дипломный проект Жубя Даниил ИС1-45 — копия\Приложение\Prilozhenie\Приложение\DiplomPrilozhenie\HabitTracker\HabitTracker\obj\Debug\Windows\MatrixAdd2.g.cs
+C:\Users\moris\OneDrive\Рабочий стол\Дипломный проект Жубя Даниил ИС1-45 — копия\Приложение\Prilozhenie\Приложение\DiplomPrilozhenie\HabitTracker\HabitTracker\obj\Debug\Windows\MatrixAdd3.g.cs
+C:\Users\moris\OneDrive\Рабочий стол\Дипломный проект Жубя Даниил ИС1-45 — копия\Приложение\Prilozhenie\Приложение\DiplomPrilozhenie\HabitTracker\HabitTracker\obj\Debug\Windows\MatrixAdd4.g.cs
+C:\Users\moris\OneDrive\Рабочий стол\Дипломный проект Жубя Даниил ИС1-45 — копия\Приложение\Prilozhenie\Приложение\DiplomPrilozhenie\HabitTracker\HabitTracker\obj\Debug\Windows\Registration.g.cs
+C:\Users\moris\OneDrive\Рабочий стол\Дипломный проект Жубя Даниил ИС1-45 — копия\Приложение\Prilozhenie\Приложение\DiplomPrilozhenie\HabitTracker\HabitTracker\obj\Debug\Windows\Timer.g.cs
+C:\Users\moris\OneDrive\Рабочий стол\Дипломный проект Жубя Даниил ИС1-45 — копия\Приложение\Prilozhenie\Приложение\DiplomPrilozhenie\HabitTracker\HabitTracker\obj\Debug\Windows\User.g.cs
+C:\Users\moris\OneDrive\Рабочий стол\Дипломный проект Жубя Даниил ИС1-45 — копия\Приложение\Prilozhenie\Приложение\DiplomPrilozhenie\HabitTracker\HabitTracker\obj\Debug\App.g.cs
+C:\Users\moris\OneDrive\Рабочий стол\Дипломный проект Жубя Даниил ИС1-45 — копия\Приложение\Prilozhenie\Приложение\DiplomPrilozhenie\HabitTracker\HabitTracker\obj\Debug\HabitTracker_Content.g.cs
+C:\Users\moris\OneDrive\Рабочий стол\Дипломный проект Жубя Даниил ИС1-45 — копия\Приложение\Prilozhenie\Приложение\DiplomPrilozhenie\HabitTracker\HabitTracker\obj\Debug\HabitTracker_MarkupCompile.cache
+C:\Users\moris\OneDrive\Рабочий стол\Дипломный проект Жубя Даниил ИС1-45 — копия\Приложение\Prilozhenie\Приложение\DiplomPrilozhenie\HabitTracker\HabitTracker\obj\Debug\HabitTracker_MarkupCompile.lref
+C:\Users\moris\OneDrive\Рабочий стол\Дипломный проект Жубя Даниил ИС1-45 — копия\Приложение\Prilozhenie\Приложение\DiplomPrilozhenie\HabitTracker\HabitTracker\obj\Debug\Image\Profile.baml
+C:\Users\moris\OneDrive\Рабочий стол\Дипломный проект Жубя Даниил ИС1-45 — копия\Приложение\Prilozhenie\Приложение\DiplomPrilozhenie\HabitTracker\HabitTracker\obj\Debug\MainWindow.baml
+C:\Users\moris\OneDrive\Рабочий стол\Дипломный проект Жубя Даниил ИС1-45 — копия\Приложение\Prilozhenie\Приложение\DiplomPrilozhenie\HabitTracker\HabitTracker\obj\Debug\Windows\Authorization.baml
+C:\Users\moris\OneDrive\Рабочий стол\Дипломный проект Жубя Даниил ИС1-45 — копия\Приложение\Prilozhenie\Приложение\DiplomPrilozhenie\HabitTracker\HabitTracker\obj\Debug\Windows\Habit.baml
+C:\Users\moris\OneDrive\Рабочий стол\Дипломный проект Жубя Даниил ИС1-45 — копия\Приложение\Prilozhenie\Приложение\DiplomPrilozhenie\HabitTracker\HabitTracker\obj\Debug\Windows\Matrix.baml
+C:\Users\moris\OneDrive\Рабочий стол\Дипломный проект Жубя Даниил ИС1-45 — копия\Приложение\Prilozhenie\Приложение\DiplomPrilozhenie\HabitTracker\HabitTracker\obj\Debug\Windows\MatrixAdd.baml
+C:\Users\moris\OneDrive\Рабочий стол\Дипломный проект Жубя Даниил ИС1-45 — копия\Приложение\Prilozhenie\Приложение\DiplomPrilozhenie\HabitTracker\HabitTracker\obj\Debug\Windows\MatrixAdd2.baml
+C:\Users\moris\OneDrive\Рабочий стол\Дипломный проект Жубя Даниил ИС1-45 — копия\Приложение\Prilozhenie\Приложение\DiplomPrilozhenie\HabitTracker\HabitTracker\obj\Debug\Windows\MatrixAdd3.baml
+C:\Users\moris\OneDrive\Рабочий стол\Дипломный проект Жубя Даниил ИС1-45 — копия\Приложение\Prilozhenie\Приложение\DiplomPrilozhenie\HabitTracker\HabitTracker\obj\Debug\Windows\MatrixAdd4.baml
+C:\Users\moris\OneDrive\Рабочий стол\Дипломный проект Жубя Даниил ИС1-45 — копия\Приложение\Prilozhenie\Приложение\DiplomPrilozhenie\HabitTracker\HabitTracker\obj\Debug\Windows\Registration.baml
+C:\Users\moris\OneDrive\Рабочий стол\Дипломный проект Жубя Даниил ИС1-45 — копия\Приложение\Prilozhenie\Приложение\DiplomPrilozhenie\HabitTracker\HabitTracker\obj\Debug\Windows\Timer.baml
+C:\Users\moris\OneDrive\Рабочий стол\Дипломный проект Жубя Даниил ИС1-45 — копия\Приложение\Prilozhenie\Приложение\DiplomPrilozhenie\HabitTracker\HabitTracker\obj\Debug\Windows\User.baml
+C:\Users\moris\OneDrive\Рабочий стол\Дипломный проект Жубя Даниил ИС1-45 — копия\Приложение\Prilozhenie\Приложение\DiplomPrilozhenie\HabitTracker\HabitTracker\obj\Debug\HabitTracker.g.resources
+C:\Users\moris\OneDrive\Рабочий стол\Дипломный проект Жубя Даниил ИС1-45 — копия\Приложение\Prilozhenie\Приложение\DiplomPrilozhenie\HabitTracker\HabitTracker\obj\Debug\HabitTracker.Properties.Resources.resources
+C:\Users\moris\OneDrive\Рабочий стол\Дипломный проект Жубя Даниил ИС1-45 — копия\Приложение\Prilozhenie\Приложение\DiplomPrilozhenie\HabitTracker\HabitTracker\obj\Debug\HabitTracker.csproj.GenerateResource.cache
+C:\Users\moris\OneDrive\Рабочий стол\Дипломный проект Жубя Даниил ИС1-45 — копия\Приложение\Prilozhenie\Приложение\DiplomPrilozhenie\HabitTracker\HabitTracker\obj\Debug\HabitTracker.csproj.CoreCompileInputs.cache
+C:\Users\moris\OneDrive\Рабочий стол\Дипломный проект Жубя Даниил ИС1-45 — копия\Приложение\Prilozhenie\Приложение\DiplomPrilozhenie\HabitTracker\HabitTracker\obj\Debug\HabitTracker.csproj.CopyComplete
+C:\Users\moris\OneDrive\Рабочий стол\Дипломный проект Жубя Даниил ИС1-45 — копия\Приложение\Prilozhenie\Приложение\DiplomPrilozhenie\HabitTracker\HabitTracker\obj\Debug\HabitTracker.exe
+C:\Users\moris\OneDrive\Рабочий стол\Дипломный проект Жубя Даниил ИС1-45 — копия\Приложение\Prilozhenie\Приложение\DiplomPrilozhenie\HabitTracker\HabitTracker\obj\Debug\HabitTracker.pdb
+C:\Users\moris\OneDrive\Рабочий стол\Дипломный проект Жубя Даниил ИС1-45 — копия\Приложение\Prilozhenie\DiplomPrilozhenie\HabitTracker\HabitTracker\bin\Debug\HabitTracker.exe.config
+C:\Users\moris\OneDrive\Рабочий стол\Дипломный проект Жубя Даниил ИС1-45 — копия\Приложение\Prilozhenie\DiplomPrilozhenie\HabitTracker\HabitTracker\bin\Debug\HabitTracker.exe
+C:\Users\moris\OneDrive\Рабочий стол\Дипломный проект Жубя Даниил ИС1-45 — копия\Приложение\Prilozhenie\DiplomPrilozhenie\HabitTracker\HabitTracker\bin\Debug\HabitTracker.pdb
+C:\Users\moris\OneDrive\Рабочий стол\Дипломный проект Жубя Даниил ИС1-45 — копия\Приложение\Prilozhenie\DiplomPrilozhenie\HabitTracker\HabitTracker\bin\Debug\EntityFramework.dll
+C:\Users\moris\OneDrive\Рабочий стол\Дипломный проект Жубя Даниил ИС1-45 — копия\Приложение\Prilozhenie\DiplomPrilozhenie\HabitTracker\HabitTracker\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\moris\OneDrive\Рабочий стол\Дипломный проект Жубя Даниил ИС1-45 — копия\Приложение\Prilozhenie\DiplomPrilozhenie\HabitTracker\HabitTracker\bin\Debug\MaterialDesignColors.dll
+C:\Users\moris\OneDrive\Рабочий стол\Дипломный проект Жубя Даниил ИС1-45 — копия\Приложение\Prilozhenie\DiplomPrilozhenie\HabitTracker\HabitTracker\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\moris\OneDrive\Рабочий стол\Дипломный проект Жубя Даниил ИС1-45 — копия\Приложение\Prilozhenie\DiplomPrilozhenie\HabitTracker\HabitTracker\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\moris\OneDrive\Рабочий стол\Дипломный проект Жубя Даниил ИС1-45 — копия\Приложение\Prilozhenie\DiplomPrilozhenie\HabitTracker\HabitTracker\bin\Debug\EntityFramework.xml
+C:\Users\moris\OneDrive\Рабочий стол\Дипломный проект Жубя Даниил ИС1-45 — копия\Приложение\Prilozhenie\DiplomPrilozhenie\HabitTracker\HabitTracker\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\moris\OneDrive\Рабочий стол\Дипломный проект Жубя Даниил ИС1-45 — копия\Приложение\Prilozhenie\DiplomPrilozhenie\HabitTracker\HabitTracker\bin\Debug\MaterialDesignColors.pdb
+C:\Users\moris\OneDrive\Рабочий стол\Дипломный проект Жубя Даниил ИС1-45 — копия\Приложение\Prilozhenie\DiplomPrilozhenie\HabitTracker\HabitTracker\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\moris\OneDrive\Рабочий стол\Дипломный проект Жубя Даниил ИС1-45 — копия\Приложение\Prilozhenie\DiplomPrilozhenie\HabitTracker\HabitTracker\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\moris\OneDrive\Рабочий стол\Дипломный проект Жубя Даниил ИС1-45 — копия\Приложение\Prilozhenie\DiplomPrilozhenie\HabitTracker\HabitTracker\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\moris\OneDrive\Рабочий стол\Дипломный проект Жубя Даниил ИС1-45 — копия\Приложение\Prilozhenie\DiplomPrilozhenie\HabitTracker\HabitTracker\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\moris\OneDrive\Рабочий стол\Дипломный проект Жубя Даниил ИС1-45 — копия\Приложение\Prilozhenie\DiplomPrilozhenie\HabitTracker\HabitTracker\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\moris\OneDrive\Рабочий стол\Дипломный проект Жубя Даниил ИС1-45 — копия\Приложение\Prilozhenie\DiplomPrilozhenie\HabitTracker\HabitTracker\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\moris\OneDrive\Рабочий стол\Дипломный проект Жубя Даниил ИС1-45 — копия\Приложение\Prilozhenie\DiplomPrilozhenie\HabitTracker\HabitTracker\obj\Debug\HabitTracker.csproj.AssemblyReference.cache
+C:\Users\moris\OneDrive\Рабочий стол\Дипломный проект Жубя Даниил ИС1-45 — копия\Приложение\Prilozhenie\DiplomPrilozhenie\HabitTracker\HabitTracker\obj\Debug\Image\Profile.g.cs
+C:\Users\moris\OneDrive\Рабочий стол\Дипломный проект Жубя Даниил ИС1-45 — копия\Приложение\Prilozhenie\DiplomPrilozhenie\HabitTracker\HabitTracker\obj\Debug\MainWindow.g.cs
+C:\Users\moris\OneDrive\Рабочий стол\Дипломный проект Жубя Даниил ИС1-45 — копия\Приложение\Prilozhenie\DiplomPrilozhenie\HabitTracker\HabitTracker\obj\Debug\Windows\Authorization.g.cs
+C:\Users\moris\OneDrive\Рабочий стол\Дипломный проект Жубя Даниил ИС1-45 — копия\Приложение\Prilozhenie\DiplomPrilozhenie\HabitTracker\HabitTracker\obj\Debug\Windows\Habit.g.cs
+C:\Users\moris\OneDrive\Рабочий стол\Дипломный проект Жубя Даниил ИС1-45 — копия\Приложение\Prilozhenie\DiplomPrilozhenie\HabitTracker\HabitTracker\obj\Debug\Windows\Matrix.g.cs
+C:\Users\moris\OneDrive\Рабочий стол\Дипломный проект Жубя Даниил ИС1-45 — копия\Приложение\Prilozhenie\DiplomPrilozhenie\HabitTracker\HabitTracker\obj\Debug\Windows\MatrixAdd.g.cs
+C:\Users\moris\OneDrive\Рабочий стол\Дипломный проект Жубя Даниил ИС1-45 — копия\Приложение\Prilozhenie\DiplomPrilozhenie\HabitTracker\HabitTracker\obj\Debug\Windows\MatrixAdd2.g.cs
+C:\Users\moris\OneDrive\Рабочий стол\Дипломный проект Жубя Даниил ИС1-45 — копия\Приложение\Prilozhenie\DiplomPrilozhenie\HabitTracker\HabitTracker\obj\Debug\Windows\MatrixAdd3.g.cs
+C:\Users\moris\OneDrive\Рабочий стол\Дипломный проект Жубя Даниил ИС1-45 — копия\Приложение\Prilozhenie\DiplomPrilozhenie\HabitTracker\HabitTracker\obj\Debug\Windows\MatrixAdd4.g.cs
+C:\Users\moris\OneDrive\Рабочий стол\Дипломный проект Жубя Даниил ИС1-45 — копия\Приложение\Prilozhenie\DiplomPrilozhenie\HabitTracker\HabitTracker\obj\Debug\Windows\Registration.g.cs
+C:\Users\moris\OneDrive\Рабочий стол\Дипломный проект Жубя Даниил ИС1-45 — копия\Приложение\Prilozhenie\DiplomPrilozhenie\HabitTracker\HabitTracker\obj\Debug\Windows\Timer.g.cs
+C:\Users\moris\OneDrive\Рабочий стол\Дипломный проект Жубя Даниил ИС1-45 — копия\Приложение\Prilozhenie\DiplomPrilozhenie\HabitTracker\HabitTracker\obj\Debug\Windows\User.g.cs
+C:\Users\moris\OneDrive\Рабочий стол\Дипломный проект Жубя Даниил ИС1-45 — копия\Приложение\Prilozhenie\DiplomPrilozhenie\HabitTracker\HabitTracker\obj\Debug\App.g.cs
+C:\Users\moris\OneDrive\Рабочий стол\Дипломный проект Жубя Даниил ИС1-45 — копия\Приложение\Prilozhenie\DiplomPrilozhenie\HabitTracker\HabitTracker\obj\Debug\HabitTracker_Content.g.cs
+C:\Users\moris\OneDrive\Рабочий стол\Дипломный проект Жубя Даниил ИС1-45 — копия\Приложение\Prilozhenie\DiplomPrilozhenie\HabitTracker\HabitTracker\obj\Debug\HabitTracker_MarkupCompile.cache
+C:\Users\moris\OneDrive\Рабочий стол\Дипломный проект Жубя Даниил ИС1-45 — копия\Приложение\Prilozhenie\DiplomPrilozhenie\HabitTracker\HabitTracker\obj\Debug\HabitTracker_MarkupCompile.lref
+C:\Users\moris\OneDrive\Рабочий стол\Дипломный проект Жубя Даниил ИС1-45 — копия\Приложение\Prilozhenie\DiplomPrilozhenie\HabitTracker\HabitTracker\obj\Debug\Image\Profile.baml
+C:\Users\moris\OneDrive\Рабочий стол\Дипломный проект Жубя Даниил ИС1-45 — копия\Приложение\Prilozhenie\DiplomPrilozhenie\HabitTracker\HabitTracker\obj\Debug\MainWindow.baml
+C:\Users\moris\OneDrive\Рабочий стол\Дипломный проект Жубя Даниил ИС1-45 — копия\Приложение\Prilozhenie\DiplomPrilozhenie\HabitTracker\HabitTracker\obj\Debug\Windows\Authorization.baml
+C:\Users\moris\OneDrive\Рабочий стол\Дипломный проект Жубя Даниил ИС1-45 — копия\Приложение\Prilozhenie\DiplomPrilozhenie\HabitTracker\HabitTracker\obj\Debug\Windows\Habit.baml
+C:\Users\moris\OneDrive\Рабочий стол\Дипломный проект Жубя Даниил ИС1-45 — копия\Приложение\Prilozhenie\DiplomPrilozhenie\HabitTracker\HabitTracker\obj\Debug\Windows\Matrix.baml
+C:\Users\moris\OneDrive\Рабочий стол\Дипломный проект Жубя Даниил ИС1-45 — копия\Приложение\Prilozhenie\DiplomPrilozhenie\HabitTracker\HabitTracker\obj\Debug\Windows\MatrixAdd.baml
+C:\Users\moris\OneDrive\Рабочий стол\Дипломный проект Жубя Даниил ИС1-45 — копия\Приложение\Prilozhenie\DiplomPrilozhenie\HabitTracker\HabitTracker\obj\Debug\Windows\MatrixAdd2.baml
+C:\Users\moris\OneDrive\Рабочий стол\Дипломный проект Жубя Даниил ИС1-45 — копия\Приложение\Prilozhenie\DiplomPrilozhenie\HabitTracker\HabitTracker\obj\Debug\Windows\MatrixAdd3.baml
+C:\Users\moris\OneDrive\Рабочий стол\Дипломный проект Жубя Даниил ИС1-45 — копия\Приложение\Prilozhenie\DiplomPrilozhenie\HabitTracker\HabitTracker\obj\Debug\Windows\MatrixAdd4.baml
+C:\Users\moris\OneDrive\Рабочий стол\Дипломный проект Жубя Даниил ИС1-45 — копия\Приложение\Prilozhenie\DiplomPrilozhenie\HabitTracker\HabitTracker\obj\Debug\Windows\Registration.baml
+C:\Users\moris\OneDrive\Рабочий стол\Дипломный проект Жубя Даниил ИС1-45 — копия\Приложение\Prilozhenie\DiplomPrilozhenie\HabitTracker\HabitTracker\obj\Debug\Windows\Timer.baml
+C:\Users\moris\OneDrive\Рабочий стол\Дипломный проект Жубя Даниил ИС1-45 — копия\Приложение\Prilozhenie\DiplomPrilozhenie\HabitTracker\HabitTracker\obj\Debug\Windows\User.baml
+C:\Users\moris\OneDrive\Рабочий стол\Дипломный проект Жубя Даниил ИС1-45 — копия\Приложение\Prilozhenie\DiplomPrilozhenie\HabitTracker\HabitTracker\obj\Debug\HabitTracker.g.resources
+C:\Users\moris\OneDrive\Рабочий стол\Дипломный проект Жубя Даниил ИС1-45 — копия\Приложение\Prilozhenie\DiplomPrilozhenie\HabitTracker\HabitTracker\obj\Debug\HabitTracker.Properties.Resources.resources
+C:\Users\moris\OneDrive\Рабочий стол\Дипломный проект Жубя Даниил ИС1-45 — копия\Приложение\Prilozhenie\DiplomPrilozhenie\HabitTracker\HabitTracker\obj\Debug\HabitTracker.csproj.GenerateResource.cache
+C:\Users\moris\OneDrive\Рабочий стол\Дипломный проект Жубя Даниил ИС1-45 — копия\Приложение\Prilozhenie\DiplomPrilozhenie\HabitTracker\HabitTracker\obj\Debug\HabitTracker.csproj.CoreCompileInputs.cache
+C:\Users\moris\OneDrive\Рабочий стол\Дипломный проект Жубя Даниил ИС1-45 — копия\Приложение\Prilozhenie\DiplomPrilozhenie\HabitTracker\HabitTracker\obj\Debug\HabitTracker.csproj.CopyComplete
+C:\Users\moris\OneDrive\Рабочий стол\Дипломный проект Жубя Даниил ИС1-45 — копия\Приложение\Prilozhenie\DiplomPrilozhenie\HabitTracker\HabitTracker\obj\Debug\HabitTracker.exe
+C:\Users\moris\OneDrive\Рабочий стол\Дипломный проект Жубя Даниил ИС1-45 — копия\Приложение\Prilozhenie\DiplomPrilozhenie\HabitTracker\HabitTracker\obj\Debug\HabitTracker.pdb
+C:\Users\moris\OneDrive\Рабочий стол\Дипломный проект Жубя Даниил ИС1-45 — копия\Приложение\Prilozhenie\DiplomPrilozhenie\HabitTracker\HabitTracker\bin\Debug\ControlzEx.dll
+C:\Users\moris\OneDrive\Рабочий стол\Дипломный проект Жубя Даниил ИС1-45 — копия\Приложение\Prilozhenie\DiplomPrilozhenie\HabitTracker\HabitTracker\bin\Debug\MahApps.Metro.dll
+C:\Users\moris\OneDrive\Рабочий стол\Дипломный проект Жубя Даниил ИС1-45 — копия\Приложение\Prilozhenie\DiplomPrilozhenie\HabitTracker\HabitTracker\bin\Debug\ControlzEx.pdb
+C:\Users\moris\OneDrive\Рабочий стол\Дипломный проект Жубя Даниил ИС1-45 — копия\Приложение\Prilozhenie\DiplomPrilozhenie\HabitTracker\HabitTracker\bin\Debug\ControlzEx.xml
+C:\Users\moris\OneDrive\Рабочий стол\Дипломный проект Жубя Даниил ИС1-45 — копия\Приложение\Prilozhenie\DiplomPrilozhenie\HabitTracker\HabitTracker\bin\Debug\MahApps.Metro.pdb
+C:\Users\moris\OneDrive\Рабочий стол\Дипломный проект Жубя Даниил ИС1-45 — копия\Приложение\Prilozhenie\DiplomPrilozhenie\HabitTracker\HabitTracker\bin\Debug\MahApps.Metro.xml
+C:\Users\moris\OneDrive\Рабочий стол\Дипломный проект Жубя Даниил ИС1-45 — копия\Приложение\Prilozhenie\HabitTracker\HabitTracker\bin\Debug\HabitTracker.exe.config
+C:\Users\moris\OneDrive\Рабочий стол\Дипломный проект Жубя Даниил ИС1-45 — копия\Приложение\Prilozhenie\HabitTracker\HabitTracker\bin\Debug\HabitTracker.exe
+C:\Users\moris\OneDrive\Рабочий стол\Дипломный проект Жубя Даниил ИС1-45 — копия\Приложение\Prilozhenie\HabitTracker\HabitTracker\bin\Debug\HabitTracker.pdb
+C:\Users\moris\OneDrive\Рабочий стол\Дипломный проект Жубя Даниил ИС1-45 — копия\Приложение\Prilozhenie\HabitTracker\HabitTracker\bin\Debug\ControlzEx.dll
+C:\Users\moris\OneDrive\Рабочий стол\Дипломный проект Жубя Даниил ИС1-45 — копия\Приложение\Prilozhenie\HabitTracker\HabitTracker\bin\Debug\EntityFramework.dll
+C:\Users\moris\OneDrive\Рабочий стол\Дипломный проект Жубя Даниил ИС1-45 — копия\Приложение\Prilozhenie\HabitTracker\HabitTracker\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\moris\OneDrive\Рабочий стол\Дипломный проект Жубя Даниил ИС1-45 — копия\Приложение\Prilozhenie\HabitTracker\HabitTracker\bin\Debug\MahApps.Metro.dll
+C:\Users\moris\OneDrive\Рабочий стол\Дипломный проект Жубя Даниил ИС1-45 — копия\Приложение\Prilozhenie\HabitTracker\HabitTracker\bin\Debug\MaterialDesignColors.dll
+C:\Users\moris\OneDrive\Рабочий стол\Дипломный проект Жубя Даниил ИС1-45 — копия\Приложение\Prilozhenie\HabitTracker\HabitTracker\bin\Debug\MaterialDesignThemes.MahApps.dll
+C:\Users\moris\OneDrive\Рабочий стол\Дипломный проект Жубя Даниил ИС1-45 — копия\Приложение\Prilozhenie\HabitTracker\HabitTracker\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\moris\OneDrive\Рабочий стол\Дипломный проект Жубя Даниил ИС1-45 — копия\Приложение\Prilozhenie\HabitTracker\HabitTracker\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\moris\OneDrive\Рабочий стол\Дипломный проект Жубя Даниил ИС1-45 — копия\Приложение\Prilozhenie\HabitTracker\HabitTracker\bin\Debug\ControlzEx.pdb
+C:\Users\moris\OneDrive\Рабочий стол\Дипломный проект Жубя Даниил ИС1-45 — копия\Приложение\Prilozhenie\HabitTracker\HabitTracker\bin\Debug\ControlzEx.xml
+C:\Users\moris\OneDrive\Рабочий стол\Дипломный проект Жубя Даниил ИС1-45 — копия\Приложение\Prilozhenie\HabitTracker\HabitTracker\bin\Debug\EntityFramework.xml
+C:\Users\moris\OneDrive\Рабочий стол\Дипломный проект Жубя Даниил ИС1-45 — копия\Приложение\Prilozhenie\HabitTracker\HabitTracker\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\moris\OneDrive\Рабочий стол\Дипломный проект Жубя Даниил ИС1-45 — копия\Приложение\Prilozhenie\HabitTracker\HabitTracker\bin\Debug\MahApps.Metro.pdb
+C:\Users\moris\OneDrive\Рабочий стол\Дипломный проект Жубя Даниил ИС1-45 — копия\Приложение\Prilozhenie\HabitTracker\HabitTracker\bin\Debug\MahApps.Metro.xml
+C:\Users\moris\OneDrive\Рабочий стол\Дипломный проект Жубя Даниил ИС1-45 — копия\Приложение\Prilozhenie\HabitTracker\HabitTracker\bin\Debug\MaterialDesignColors.pdb
+C:\Users\moris\OneDrive\Рабочий стол\Дипломный проект Жубя Даниил ИС1-45 — копия\Приложение\Prilozhenie\HabitTracker\HabitTracker\bin\Debug\MaterialDesignThemes.MahApps.pdb
+C:\Users\moris\OneDrive\Рабочий стол\Дипломный проект Жубя Даниил ИС1-45 — копия\Приложение\Prilozhenie\HabitTracker\HabitTracker\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\moris\OneDrive\Рабочий стол\Дипломный проект Жубя Даниил ИС1-45 — копия\Приложение\Prilozhenie\HabitTracker\HabitTracker\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\moris\OneDrive\Рабочий стол\Дипломный проект Жубя Даниил ИС1-45 — копия\Приложение\Prilozhenie\HabitTracker\HabitTracker\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\moris\OneDrive\Рабочий стол\Дипломный проект Жубя Даниил ИС1-45 — копия\Приложение\Prilozhenie\HabitTracker\HabitTracker\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\moris\OneDrive\Рабочий стол\Дипломный проект Жубя Даниил ИС1-45 — копия\Приложение\Prilozhenie\HabitTracker\HabitTracker\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\moris\OneDrive\Рабочий стол\Дипломный проект Жубя Даниил ИС1-45 — копия\Приложение\Prilozhenie\HabitTracker\HabitTracker\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\moris\OneDrive\Рабочий стол\Дипломный проект Жубя Даниил ИС1-45 — копия\Приложение\Prilozhenie\HabitTracker\HabitTracker\obj\Debug\HabitTracker.csproj.AssemblyReference.cache
+C:\Users\moris\OneDrive\Рабочий стол\Дипломный проект Жубя Даниил ИС1-45 — копия\Приложение\Prilozhenie\HabitTracker\HabitTracker\obj\Debug\Image\Profile.g.cs
+C:\Users\moris\OneDrive\Рабочий стол\Дипломный проект Жубя Даниил ИС1-45 — копия\Приложение\Prilozhenie\HabitTracker\HabitTracker\obj\Debug\MainWindow.g.cs
+C:\Users\moris\OneDrive\Рабочий стол\Дипломный проект Жубя Даниил ИС1-45 — копия\Приложение\Prilozhenie\HabitTracker\HabitTracker\obj\Debug\Windows\Authorization.g.cs
+C:\Users\moris\OneDrive\Рабочий стол\Дипломный проект Жубя Даниил ИС1-45 — копия\Приложение\Prilozhenie\HabitTracker\HabitTracker\obj\Debug\Windows\Habit.g.cs
+C:\Users\moris\OneDrive\Рабочий стол\Дипломный проект Жубя Даниил ИС1-45 — копия\Приложение\Prilozhenie\HabitTracker\HabitTracker\obj\Debug\Windows\Matrix.g.cs
+C:\Users\moris\OneDrive\Рабочий стол\Дипломный проект Жубя Даниил ИС1-45 — копия\Приложение\Prilozhenie\HabitTracker\HabitTracker\obj\Debug\Windows\MatrixAdd.g.cs
+C:\Users\moris\OneDrive\Рабочий стол\Дипломный проект Жубя Даниил ИС1-45 — копия\Приложение\Prilozhenie\HabitTracker\HabitTracker\obj\Debug\Windows\MatrixAdd2.g.cs
+C:\Users\moris\OneDrive\Рабочий стол\Дипломный проект Жубя Даниил ИС1-45 — копия\Приложение\Prilozhenie\HabitTracker\HabitTracker\obj\Debug\Windows\MatrixAdd3.g.cs
+C:\Users\moris\OneDrive\Рабочий стол\Дипломный проект Жубя Даниил ИС1-45 — копия\Приложение\Prilozhenie\HabitTracker\HabitTracker\obj\Debug\Windows\MatrixAdd4.g.cs
+C:\Users\moris\OneDrive\Рабочий стол\Дипломный проект Жубя Даниил ИС1-45 — копия\Приложение\Prilozhenie\HabitTracker\HabitTracker\obj\Debug\Windows\Registration.g.cs
+C:\Users\moris\OneDrive\Рабочий стол\Дипломный проект Жубя Даниил ИС1-45 — копия\Приложение\Prilozhenie\HabitTracker\HabitTracker\obj\Debug\Windows\Timer.g.cs
+C:\Users\moris\OneDrive\Рабочий стол\Дипломный проект Жубя Даниил ИС1-45 — копия\Приложение\Prilozhenie\HabitTracker\HabitTracker\obj\Debug\Windows\User.g.cs
+C:\Users\moris\OneDrive\Рабочий стол\Дипломный проект Жубя Даниил ИС1-45 — копия\Приложение\Prilozhenie\HabitTracker\HabitTracker\obj\Debug\App.g.cs
+C:\Users\moris\OneDrive\Рабочий стол\Дипломный проект Жубя Даниил ИС1-45 — копия\Приложение\Prilozhenie\HabitTracker\HabitTracker\obj\Debug\HabitTracker_Content.g.cs
+C:\Users\moris\OneDrive\Рабочий стол\Дипломный проект Жубя Даниил ИС1-45 — копия\Приложение\Prilozhenie\HabitTracker\HabitTracker\obj\Debug\HabitTracker_MarkupCompile.cache
+C:\Users\moris\OneDrive\Рабочий стол\Дипломный проект Жубя Даниил ИС1-45 — копия\Приложение\Prilozhenie\HabitTracker\HabitTracker\obj\Debug\HabitTracker_MarkupCompile.lref
+C:\Users\moris\OneDrive\Рабочий стол\Дипломный проект Жубя Даниил ИС1-45 — копия\Приложение\Prilozhenie\HabitTracker\HabitTracker\obj\Debug\Image\Profile.baml
+C:\Users\moris\OneDrive\Рабочий стол\Дипломный проект Жубя Даниил ИС1-45 — копия\Приложение\Prilozhenie\HabitTracker\HabitTracker\obj\Debug\MainWindow.baml
+C:\Users\moris\OneDrive\Рабочий стол\Дипломный проект Жубя Даниил ИС1-45 — копия\Приложение\Prilozhenie\HabitTracker\HabitTracker\obj\Debug\Windows\Authorization.baml
+C:\Users\moris\OneDrive\Рабочий стол\Дипломный проект Жубя Даниил ИС1-45 — копия\Приложение\Prilozhenie\HabitTracker\HabitTracker\obj\Debug\Windows\Habit.baml
+C:\Users\moris\OneDrive\Рабочий стол\Дипломный проект Жубя Даниил ИС1-45 — копия\Приложение\Prilozhenie\HabitTracker\HabitTracker\obj\Debug\Windows\Matrix.baml
+C:\Users\moris\OneDrive\Рабочий стол\Дипломный проект Жубя Даниил ИС1-45 — копия\Приложение\Prilozhenie\HabitTracker\HabitTracker\obj\Debug\Windows\MatrixAdd.baml
+C:\Users\moris\OneDrive\Рабочий стол\Дипломный проект Жубя Даниил ИС1-45 — копия\Приложение\Prilozhenie\HabitTracker\HabitTracker\obj\Debug\Windows\MatrixAdd2.baml
+C:\Users\moris\OneDrive\Рабочий стол\Дипломный проект Жубя Даниил ИС1-45 — копия\Приложение\Prilozhenie\HabitTracker\HabitTracker\obj\Debug\Windows\MatrixAdd3.baml
+C:\Users\moris\OneDrive\Рабочий стол\Дипломный проект Жубя Даниил ИС1-45 — копия\Приложение\Prilozhenie\HabitTracker\HabitTracker\obj\Debug\Windows\MatrixAdd4.baml
+C:\Users\moris\OneDrive\Рабочий стол\Дипломный проект Жубя Даниил ИС1-45 — копия\Приложение\Prilozhenie\HabitTracker\HabitTracker\obj\Debug\Windows\Registration.baml
+C:\Users\moris\OneDrive\Рабочий стол\Дипломный проект Жубя Даниил ИС1-45 — копия\Приложение\Prilozhenie\HabitTracker\HabitTracker\obj\Debug\Windows\Timer.baml
+C:\Users\moris\OneDrive\Рабочий стол\Дипломный проект Жубя Даниил ИС1-45 — копия\Приложение\Prilozhenie\HabitTracker\HabitTracker\obj\Debug\Windows\User.baml
+C:\Users\moris\OneDrive\Рабочий стол\Дипломный проект Жубя Даниил ИС1-45 — копия\Приложение\Prilozhenie\HabitTracker\HabitTracker\obj\Debug\HabitTracker.g.resources
+C:\Users\moris\OneDrive\Рабочий стол\Дипломный проект Жубя Даниил ИС1-45 — копия\Приложение\Prilozhenie\HabitTracker\HabitTracker\obj\Debug\HabitTracker.Properties.Resources.resources
+C:\Users\moris\OneDrive\Рабочий стол\Дипломный проект Жубя Даниил ИС1-45 — копия\Приложение\Prilozhenie\HabitTracker\HabitTracker\obj\Debug\HabitTracker.csproj.GenerateResource.cache
+C:\Users\moris\OneDrive\Рабочий стол\Дипломный проект Жубя Даниил ИС1-45 — копия\Приложение\Prilozhenie\HabitTracker\HabitTracker\obj\Debug\HabitTracker.csproj.CoreCompileInputs.cache
+C:\Users\moris\OneDrive\Рабочий стол\Дипломный проект Жубя Даниил ИС1-45 — копия\Приложение\Prilozhenie\HabitTracker\HabitTracker\obj\Debug\HabitTracker.csproj.CopyComplete
+C:\Users\moris\OneDrive\Рабочий стол\Дипломный проект Жубя Даниил ИС1-45 — копия\Приложение\Prilozhenie\HabitTracker\HabitTracker\obj\Debug\HabitTracker.exe
+C:\Users\moris\OneDrive\Рабочий стол\Дипломный проект Жубя Даниил ИС1-45 — копия\Приложение\Prilozhenie\HabitTracker\HabitTracker\obj\Debug\HabitTracker.pdb
+C:\Users\moris\OneDrive\Рабочий стол\Дипломный проект Жубя Даниил ИС1-45 — копия\Приложение\Prilozhenie\HabitTracker\HabitTracker\obj\Debug\App.baml
+C:\Users\moris\OneDrive\Рабочий стол\Дипломный проект Жубя Даниил ИС1-45 — копия\Приложение\Prilozhenie\DiplomPrilozhenie\HabitTracker\HabitTracker\obj\Debug\App.baml
+D:\Дипломный проект Жубя Даниил ИС1-45 — копия\Приложение\Prilozhenie\DiplomPrilozhenie\HabitTracker\HabitTracker\bin\Debug\HabitTracker.exe.config
+D:\Дипломный проект Жубя Даниил ИС1-45 — копия\Приложение\Prilozhenie\DiplomPrilozhenie\HabitTracker\HabitTracker\bin\Debug\HabitTracker.exe
+D:\Дипломный проект Жубя Даниил ИС1-45 — копия\Приложение\Prilozhenie\DiplomPrilozhenie\HabitTracker\HabitTracker\bin\Debug\HabitTracker.pdb
+D:\Дипломный проект Жубя Даниил ИС1-45 — копия\Приложение\Prilozhenie\DiplomPrilozhenie\HabitTracker\HabitTracker\bin\Debug\ControlzEx.dll
+D:\Дипломный проект Жубя Даниил ИС1-45 — копия\Приложение\Prilozhenie\DiplomPrilozhenie\HabitTracker\HabitTracker\bin\Debug\EntityFramework.dll
+D:\Дипломный проект Жубя Даниил ИС1-45 — копия\Приложение\Prilozhenie\DiplomPrilozhenie\HabitTracker\HabitTracker\bin\Debug\EntityFramework.SqlServer.dll
+D:\Дипломный проект Жубя Даниил ИС1-45 — копия\Приложение\Prilozhenie\DiplomPrilozhenie\HabitTracker\HabitTracker\bin\Debug\MahApps.Metro.dll
+D:\Дипломный проект Жубя Даниил ИС1-45 — копия\Приложение\Prilozhenie\DiplomPrilozhenie\HabitTracker\HabitTracker\bin\Debug\MaterialDesignColors.dll
+D:\Дипломный проект Жубя Даниил ИС1-45 — копия\Приложение\Prilozhenie\DiplomPrilozhenie\HabitTracker\HabitTracker\bin\Debug\MaterialDesignThemes.Wpf.dll
+D:\Дипломный проект Жубя Даниил ИС1-45 — копия\Приложение\Prilozhenie\DiplomPrilozhenie\HabitTracker\HabitTracker\bin\Debug\Microsoft.Xaml.Behaviors.dll
+D:\Дипломный проект Жубя Даниил ИС1-45 — копия\Приложение\Prilozhenie\DiplomPrilozhenie\HabitTracker\HabitTracker\bin\Debug\ControlzEx.pdb
+D:\Дипломный проект Жубя Даниил ИС1-45 — копия\Приложение\Prilozhenie\DiplomPrilozhenie\HabitTracker\HabitTracker\bin\Debug\ControlzEx.xml
+D:\Дипломный проект Жубя Даниил ИС1-45 — копия\Приложение\Prilozhenie\DiplomPrilozhenie\HabitTracker\HabitTracker\bin\Debug\EntityFramework.xml
+D:\Дипломный проект Жубя Даниил ИС1-45 — копия\Приложение\Prilozhenie\DiplomPrilozhenie\HabitTracker\HabitTracker\bin\Debug\EntityFramework.SqlServer.xml
+D:\Дипломный проект Жубя Даниил ИС1-45 — копия\Приложение\Prilozhenie\DiplomPrilozhenie\HabitTracker\HabitTracker\bin\Debug\MahApps.Metro.pdb
+D:\Дипломный проект Жубя Даниил ИС1-45 — копия\Приложение\Prilozhenie\DiplomPrilozhenie\HabitTracker\HabitTracker\bin\Debug\MahApps.Metro.xml
+D:\Дипломный проект Жубя Даниил ИС1-45 — копия\Приложение\Prilozhenie\DiplomPrilozhenie\HabitTracker\HabitTracker\bin\Debug\MaterialDesignColors.pdb
+D:\Дипломный проект Жубя Даниил ИС1-45 — копия\Приложение\Prilozhenie\DiplomPrilozhenie\HabitTracker\HabitTracker\bin\Debug\MaterialDesignThemes.Wpf.pdb
+D:\Дипломный проект Жубя Даниил ИС1-45 — копия\Приложение\Prilozhenie\DiplomPrilozhenie\HabitTracker\HabitTracker\bin\Debug\MaterialDesignThemes.Wpf.xml
+D:\Дипломный проект Жубя Даниил ИС1-45 — копия\Приложение\Prilozhenie\DiplomPrilozhenie\HabitTracker\HabitTracker\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+D:\Дипломный проект Жубя Даниил ИС1-45 — копия\Приложение\Prilozhenie\DiplomPrilozhenie\HabitTracker\HabitTracker\bin\Debug\Microsoft.Xaml.Behaviors.xml
+D:\Дипломный проект Жубя Даниил ИС1-45 — копия\Приложение\Prilozhenie\DiplomPrilozhenie\HabitTracker\HabitTracker\bin\Debug\ru\EntityFramework.resources.dll
+D:\Дипломный проект Жубя Даниил ИС1-45 — копия\Приложение\Prilozhenie\DiplomPrilozhenie\HabitTracker\HabitTracker\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+D:\Дипломный проект Жубя Даниил ИС1-45 — копия\Приложение\Prilozhenie\DiplomPrilozhenie\HabitTracker\HabitTracker\obj\Debug\HabitTracker.csproj.AssemblyReference.cache
+D:\Дипломный проект Жубя Даниил ИС1-45 — копия\Приложение\Prilozhenie\DiplomPrilozhenie\HabitTracker\HabitTracker\obj\Debug\Image\Profile.g.cs
+D:\Дипломный проект Жубя Даниил ИС1-45 — копия\Приложение\Prilozhenie\DiplomPrilozhenie\HabitTracker\HabitTracker\obj\Debug\MainWindow.g.cs
+D:\Дипломный проект Жубя Даниил ИС1-45 — копия\Приложение\Prilozhenie\DiplomPrilozhenie\HabitTracker\HabitTracker\obj\Debug\Windows\Authorization.g.cs
+D:\Дипломный проект Жубя Даниил ИС1-45 — копия\Приложение\Prilozhenie\DiplomPrilozhenie\HabitTracker\HabitTracker\obj\Debug\Windows\Habit.g.cs
+D:\Дипломный проект Жубя Даниил ИС1-45 — копия\Приложение\Prilozhenie\DiplomPrilozhenie\HabitTracker\HabitTracker\obj\Debug\Windows\Matrix.g.cs
+D:\Дипломный проект Жубя Даниил ИС1-45 — копия\Приложение\Prilozhenie\DiplomPrilozhenie\HabitTracker\HabitTracker\obj\Debug\Windows\MatrixAdd.g.cs
+D:\Дипломный проект Жубя Даниил ИС1-45 — копия\Приложение\Prilozhenie\DiplomPrilozhenie\HabitTracker\HabitTracker\obj\Debug\Windows\MatrixAdd2.g.cs
+D:\Дипломный проект Жубя Даниил ИС1-45 — копия\Приложение\Prilozhenie\DiplomPrilozhenie\HabitTracker\HabitTracker\obj\Debug\Windows\MatrixAdd3.g.cs
+D:\Дипломный проект Жубя Даниил ИС1-45 — копия\Приложение\Prilozhenie\DiplomPrilozhenie\HabitTracker\HabitTracker\obj\Debug\Windows\MatrixAdd4.g.cs
+D:\Дипломный проект Жубя Даниил ИС1-45 — копия\Приложение\Prilozhenie\DiplomPrilozhenie\HabitTracker\HabitTracker\obj\Debug\Windows\Registration.g.cs
+D:\Дипломный проект Жубя Даниил ИС1-45 — копия\Приложение\Prilozhenie\DiplomPrilozhenie\HabitTracker\HabitTracker\obj\Debug\Windows\Timer.g.cs
+D:\Дипломный проект Жубя Даниил ИС1-45 — копия\Приложение\Prilozhenie\DiplomPrilozhenie\HabitTracker\HabitTracker\obj\Debug\Windows\User.g.cs
+D:\Дипломный проект Жубя Даниил ИС1-45 — копия\Приложение\Prilozhenie\DiplomPrilozhenie\HabitTracker\HabitTracker\obj\Debug\App.g.cs
+D:\Дипломный проект Жубя Даниил ИС1-45 — копия\Приложение\Prilozhenie\DiplomPrilozhenie\HabitTracker\HabitTracker\obj\Debug\HabitTracker_Content.g.cs
+D:\Дипломный проект Жубя Даниил ИС1-45 — копия\Приложение\Prilozhenie\DiplomPrilozhenie\HabitTracker\HabitTracker\obj\Debug\HabitTracker_MarkupCompile.cache
+D:\Дипломный проект Жубя Даниил ИС1-45 — копия\Приложение\Prilozhenie\DiplomPrilozhenie\HabitTracker\HabitTracker\obj\Debug\HabitTracker_MarkupCompile.lref
+D:\Дипломный проект Жубя Даниил ИС1-45 — копия\Приложение\Prilozhenie\DiplomPrilozhenie\HabitTracker\HabitTracker\obj\Debug\App.baml
+D:\Дипломный проект Жубя Даниил ИС1-45 — копия\Приложение\Prilozhenie\DiplomPrilozhenie\HabitTracker\HabitTracker\obj\Debug\Image\Profile.baml
+D:\Дипломный проект Жубя Даниил ИС1-45 — копия\Приложение\Prilozhenie\DiplomPrilozhenie\HabitTracker\HabitTracker\obj\Debug\MainWindow.baml
+D:\Дипломный проект Жубя Даниил ИС1-45 — копия\Приложение\Prilozhenie\DiplomPrilozhenie\HabitTracker\HabitTracker\obj\Debug\Windows\Authorization.baml
+D:\Дипломный проект Жубя Даниил ИС1-45 — копия\Приложение\Prilozhenie\DiplomPrilozhenie\HabitTracker\HabitTracker\obj\Debug\Windows\Habit.baml
+D:\Дипломный проект Жубя Даниил ИС1-45 — копия\Приложение\Prilozhenie\DiplomPrilozhenie\HabitTracker\HabitTracker\obj\Debug\Windows\Matrix.baml
+D:\Дипломный проект Жубя Даниил ИС1-45 — копия\Приложение\Prilozhenie\DiplomPrilozhenie\HabitTracker\HabitTracker\obj\Debug\Windows\MatrixAdd.baml
+D:\Дипломный проект Жубя Даниил ИС1-45 — копия\Приложение\Prilozhenie\DiplomPrilozhenie\HabitTracker\HabitTracker\obj\Debug\Windows\MatrixAdd2.baml
+D:\Дипломный проект Жубя Даниил ИС1-45 — копия\Приложение\Prilozhenie\DiplomPrilozhenie\HabitTracker\HabitTracker\obj\Debug\Windows\MatrixAdd3.baml
+D:\Дипломный проект Жубя Даниил ИС1-45 — копия\Приложение\Prilozhenie\DiplomPrilozhenie\HabitTracker\HabitTracker\obj\Debug\Windows\MatrixAdd4.baml
+D:\Дипломный проект Жубя Даниил ИС1-45 — копия\Приложение\Prilozhenie\DiplomPrilozhenie\HabitTracker\HabitTracker\obj\Debug\Windows\Registration.baml
+D:\Дипломный проект Жубя Даниил ИС1-45 — копия\Приложение\Prilozhenie\DiplomPrilozhenie\HabitTracker\HabitTracker\obj\Debug\Windows\Timer.baml
+D:\Дипломный проект Жубя Даниил ИС1-45 — копия\Приложение\Prilozhenie\DiplomPrilozhenie\HabitTracker\HabitTracker\obj\Debug\Windows\User.baml
+D:\Дипломный проект Жубя Даниил ИС1-45 — копия\Приложение\Prilozhenie\DiplomPrilozhenie\HabitTracker\HabitTracker\obj\Debug\HabitTracker.g.resources
+D:\Дипломный проект Жубя Даниил ИС1-45 — копия\Приложение\Prilozhenie\DiplomPrilozhenie\HabitTracker\HabitTracker\obj\Debug\HabitTracker.Properties.Resources.resources
+D:\Дипломный проект Жубя Даниил ИС1-45 — копия\Приложение\Prilozhenie\DiplomPrilozhenie\HabitTracker\HabitTracker\obj\Debug\HabitTracker.csproj.GenerateResource.cache
+D:\Дипломный проект Жубя Даниил ИС1-45 — копия\Приложение\Prilozhenie\DiplomPrilozhenie\HabitTracker\HabitTracker\obj\Debug\HabitTracker.csproj.CoreCompileInputs.cache
+D:\Дипломный проект Жубя Даниил ИС1-45 — копия\Приложение\Prilozhenie\DiplomPrilozhenie\HabitTracker\HabitTracker\obj\Debug\HabitTracker.csproj.CopyComplete
+D:\Дипломный проект Жубя Даниил ИС1-45 — копия\Приложение\Prilozhenie\DiplomPrilozhenie\HabitTracker\HabitTracker\obj\Debug\HabitTracker.exe
+D:\Дипломный проект Жубя Даниил ИС1-45 — копия\Приложение\Prilozhenie\DiplomPrilozhenie\HabitTracker\HabitTracker\obj\Debug\HabitTracker.pdb

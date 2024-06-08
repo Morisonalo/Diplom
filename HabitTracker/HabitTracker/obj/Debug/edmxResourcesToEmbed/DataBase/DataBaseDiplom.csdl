@@ -1,0 +1,187 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="user187_dbModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityContainer Name="user187_dbEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Diplom_Habit" EntityType="user187_dbModel.Diplom_Habit" />
+    <EntitySet Name="Diplom_Note" EntityType="user187_dbModel.Diplom_Note" />
+    <EntitySet Name="Diplom_Type_habit" EntityType="user187_dbModel.Diplom_Type_habit" />
+    <EntitySet Name="Diplom_UserRole" EntityType="user187_dbModel.Diplom_UserRole" />
+    <EntitySet Name="Diplom_Users" EntityType="user187_dbModel.Diplom_Users" />
+    <EntitySet Name="Diplom_Users_Habit" EntityType="user187_dbModel.Diplom_Users_Habit" />
+    <AssociationSet Name="FK_Diplom_Habit_Diplom_Type_habit" Association="user187_dbModel.FK_Diplom_Habit_Diplom_Type_habit">
+      <End Role="Diplom_Type_habit" EntitySet="Diplom_Type_habit" />
+      <End Role="Diplom_Habit" EntitySet="Diplom_Habit" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Diplom_Users_Habit_Diplom_Habit" Association="user187_dbModel.FK_Diplom_Users_Habit_Diplom_Habit">
+      <End Role="Diplom_Habit" EntitySet="Diplom_Habit" />
+      <End Role="Diplom_Users_Habit" EntitySet="Diplom_Users_Habit" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Diplom_Note_Diplom_Users" Association="user187_dbModel.FK_Diplom_Note_Diplom_Users">
+      <End Role="Diplom_Users" EntitySet="Diplom_Users" />
+      <End Role="Diplom_Note" EntitySet="Diplom_Note" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Diplom_Users_Diplom_UserRole" Association="user187_dbModel.FK_Diplom_Users_Diplom_UserRole">
+      <End Role="Diplom_UserRole" EntitySet="Diplom_UserRole" />
+      <End Role="Diplom_Users" EntitySet="Diplom_Users" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Diplom_Users_Habit_Diplom_Users" Association="user187_dbModel.FK_Diplom_Users_Habit_Diplom_Users">
+      <End Role="Diplom_Users" EntitySet="Diplom_Users" />
+      <End Role="Diplom_Users_Habit" EntitySet="Diplom_Users_Habit" />
+    </AssociationSet>
+    <EntitySet Name="Note_Type" EntityType="user187_dbModel.Note_Type" />
+    <AssociationSet Name="FK_Diplom_Note_Note_Type" Association="user187_dbModel.FK_Diplom_Note_Note_Type">
+      <End Role="Note_Type" EntitySet="Note_Type" />
+      <End Role="Diplom_Note" EntitySet="Diplom_Note" />
+    </AssociationSet>
+  </EntityContainer>
+  <EntityType Name="Diplom_Habit">
+    <Key>
+      <PropertyRef Name="ID_Habit" />
+    </Key>
+    <Property Name="ID_Habit" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="Name" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="Type_habit" Type="Int32" />
+    <NavigationProperty Name="Diplom_Type_habit" Relationship="user187_dbModel.FK_Diplom_Habit_Diplom_Type_habit" FromRole="Diplom_Habit" ToRole="Diplom_Type_habit" />
+    <NavigationProperty Name="Diplom_Users_Habit" Relationship="user187_dbModel.FK_Diplom_Users_Habit_Diplom_Habit" FromRole="Diplom_Habit" ToRole="Diplom_Users_Habit" />
+  </EntityType>
+  <EntityType Name="Diplom_Note">
+    <Key>
+      <PropertyRef Name="ID_Note" />
+    </Key>
+    <Property Name="ID_Note" Type="Int32" Nullable="false" />
+    <Property Name="Name" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="Discription" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="Date" Type="DateTime" Precision="0" />
+    <Property Name="ID_Users" Type="Int32" />
+    <Property Name="ID_Type_Note" Type="Int32" />
+    <NavigationProperty Name="Diplom_Users" Relationship="user187_dbModel.FK_Diplom_Note_Diplom_Users" FromRole="Diplom_Note" ToRole="Diplom_Users" />
+    <NavigationProperty Name="Note_Type" Relationship="user187_dbModel.FK_Diplom_Note_Note_Type" FromRole="Diplom_Note" ToRole="Note_Type" />
+    <Property Name="CheckPoint" Type="Boolean" />
+  </EntityType>
+  <EntityType Name="Diplom_Type_habit">
+    <Key>
+      <PropertyRef Name="ID_Habit" />
+    </Key>
+    <Property Name="ID_Habit" Type="Int32" Nullable="false" />
+    <Property Name="Name" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <NavigationProperty Name="Diplom_Habit" Relationship="user187_dbModel.FK_Diplom_Habit_Diplom_Type_habit" FromRole="Diplom_Type_habit" ToRole="Diplom_Habit" />
+  </EntityType>
+  <EntityType Name="Diplom_UserRole">
+    <Key>
+      <PropertyRef Name="ID_Role" />
+    </Key>
+    <Property Name="ID_Role" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="NameRole" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <NavigationProperty Name="Diplom_Users" Relationship="user187_dbModel.FK_Diplom_Users_Diplom_UserRole" FromRole="Diplom_UserRole" ToRole="Diplom_Users" />
+  </EntityType>
+  <EntityType Name="Diplom_Users">
+    <Key>
+      <PropertyRef Name="ID_Users" />
+    </Key>
+    <Property Name="ID_Users" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Name" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="Surname" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="Middle_name" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="Telephone" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="Login" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="Password" Type="String" MaxLength="10" FixedLength="false" Unicode="false" />
+    <Property Name="ID_Role" Type="Int32" />
+    <Property Name="Photo" Type="Binary" MaxLength="Max" FixedLength="false" />
+    <NavigationProperty Name="Diplom_Note" Relationship="user187_dbModel.FK_Diplom_Note_Diplom_Users" FromRole="Diplom_Users" ToRole="Diplom_Note" />
+    <NavigationProperty Name="Diplom_UserRole" Relationship="user187_dbModel.FK_Diplom_Users_Diplom_UserRole" FromRole="Diplom_Users" ToRole="Diplom_UserRole" />
+    <NavigationProperty Name="Diplom_Users_Habit" Relationship="user187_dbModel.FK_Diplom_Users_Habit_Diplom_Users" FromRole="Diplom_Users" ToRole="Diplom_Users_Habit" />
+  </EntityType>
+  <EntityType Name="Diplom_Users_Habit">
+    <Key>
+      <PropertyRef Name="ID_Users_Habit" />
+    </Key>
+    <Property Name="ID_Users" Type="Int32" Nullable="false" />
+    <Property Name="ID_Habit" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="Date_start" Type="DateTime" Precision="3" />
+    <Property Name="Attempt" Type="Int32" />
+    <Property Name="Amount_of_day" Type="Int32" />
+    <Property Name="Record" Type="Int32" Nullable="false" />
+    <Property Name="ID_Users_Habit" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <NavigationProperty Name="Diplom_Habit" Relationship="user187_dbModel.FK_Diplom_Users_Habit_Diplom_Habit" FromRole="Diplom_Users_Habit" ToRole="Diplom_Habit" />
+    <NavigationProperty Name="Diplom_Users" Relationship="user187_dbModel.FK_Diplom_Users_Habit_Diplom_Users" FromRole="Diplom_Users_Habit" ToRole="Diplom_Users" />
+  </EntityType>
+  <Association Name="FK_Diplom_Habit_Diplom_Type_habit">
+    <End Type="user187_dbModel.Diplom_Type_habit" Role="Diplom_Type_habit" Multiplicity="0..1" />
+    <End Type="user187_dbModel.Diplom_Habit" Role="Diplom_Habit" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Diplom_Type_habit">
+        <PropertyRef Name="ID_Habit" />
+      </Principal>
+      <Dependent Role="Diplom_Habit">
+        <PropertyRef Name="Type_habit" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Diplom_Users_Habit_Diplom_Habit">
+    <End Type="user187_dbModel.Diplom_Habit" Role="Diplom_Habit" Multiplicity="0..1" />
+    <End Type="user187_dbModel.Diplom_Users_Habit" Role="Diplom_Users_Habit" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Diplom_Habit">
+        <PropertyRef Name="ID_Habit" />
+      </Principal>
+      <Dependent Role="Diplom_Users_Habit">
+        <PropertyRef Name="ID_Habit" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Diplom_Note_Diplom_Users">
+    <End Type="user187_dbModel.Diplom_Users" Role="Diplom_Users" Multiplicity="0..1" />
+    <End Type="user187_dbModel.Diplom_Note" Role="Diplom_Note" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Diplom_Users">
+        <PropertyRef Name="ID_Users" />
+      </Principal>
+      <Dependent Role="Diplom_Note">
+        <PropertyRef Name="ID_Users" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Diplom_Users_Diplom_UserRole">
+    <End Type="user187_dbModel.Diplom_UserRole" Role="Diplom_UserRole" Multiplicity="0..1" />
+    <End Type="user187_dbModel.Diplom_Users" Role="Diplom_Users" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Diplom_UserRole">
+        <PropertyRef Name="ID_Role" />
+      </Principal>
+      <Dependent Role="Diplom_Users">
+        <PropertyRef Name="ID_Role" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Diplom_Users_Habit_Diplom_Users">
+    <End Type="user187_dbModel.Diplom_Users" Role="Diplom_Users" Multiplicity="1" />
+    <End Type="user187_dbModel.Diplom_Users_Habit" Role="Diplom_Users_Habit" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Diplom_Users">
+        <PropertyRef Name="ID_Users" />
+      </Principal>
+      <Dependent Role="Diplom_Users_Habit">
+        <PropertyRef Name="ID_Users" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityType Name="Note_Type">
+    <Key>
+      <PropertyRef Name="ID_Type_Note" />
+    </Key>
+    <Property Name="ID_Type_Note" Type="Int32" Nullable="false" />
+    <Property Name="Name" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <NavigationProperty Name="Diplom_Note" Relationship="user187_dbModel.FK_Diplom_Note_Note_Type" FromRole="Note_Type" ToRole="Diplom_Note" />
+  </EntityType>
+  <Association Name="FK_Diplom_Note_Note_Type">
+    <End Type="user187_dbModel.Note_Type" Role="Note_Type" Multiplicity="0..1" />
+    <End Type="user187_dbModel.Diplom_Note" Role="Diplom_Note" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Note_Type">
+        <PropertyRef Name="ID_Type_Note" />
+      </Principal>
+      <Dependent Role="Diplom_Note">
+        <PropertyRef Name="ID_Type_Note" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+</Schema>

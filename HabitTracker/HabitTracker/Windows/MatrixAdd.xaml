@@ -1,0 +1,32 @@
+﻿<Window x:Class="HabitTracker.Windows.MatrixAdd"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:HabitTracker.Windows"
+        xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+        mc:Ignorable="d"
+        Title="MatrixAdd"
+        Height="300"
+        Width="300"
+        AllowsTransparency="True"
+        WindowStartupLocation="CenterScreen"
+        WindowStyle="None"
+        Background="Transparent"
+        >
+    <Grid>
+        <Border Background="#ffffff"
+                CornerRadius="40">
+            <Grid>
+                <TextBox Name="TbNameNote"  materialDesign:HintAssist.Hint="Заметка" Style="{StaticResource MaterialDesignFloatingHintTextBox}" TextWrapping="Wrap" Text="{Binding Name}" Margin="30,123,30,136"/>
+                <TextBox Name="TbDiscriptionNote" materialDesign:HintAssist.Hint="Примечание" Style="{StaticResource MaterialDesignFloatingHintTextBox}" TextWrapping="Wrap" Text="{Binding Discription}" Margin="30,169,30,88"/>
+            </Grid>
+
+
+
+        </Border>
+
+        <Button Content="Добавить" HorizontalAlignment="Center" Margin="0,240,0,0" VerticalAlignment="Top" Width="108" Click="Button_Click"/>
+        <TextBlock HorizontalAlignment="Center" Margin="0,32,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="181" Text="Добавить заметку" FontWeight="Bold" FontSize="20"/>
+    </Grid>
+</Window>

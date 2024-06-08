@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="Хранилище user187_dbModelContainer" CdmEntityContainer="user187_dbEntities">
+    <EntitySetMapping Name="Diplom_Habit">
+      <EntityTypeMapping TypeName="user187_dbModel.Diplom_Habit">
+        <MappingFragment StoreEntitySet="Diplom_Habit">
+          <ScalarProperty Name="Type_habit" ColumnName="Type_habit" />
+          <ScalarProperty Name="Name" ColumnName="Name" />
+          <ScalarProperty Name="ID_Habit" ColumnName="ID_Habit" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Diplom_Note">
+      <EntityTypeMapping TypeName="user187_dbModel.Diplom_Note">
+        <MappingFragment StoreEntitySet="Diplom_Note">
+          <ScalarProperty Name="CheckPoint" ColumnName="CheckPoint" />
+          <ScalarProperty Name="ID_Type_Note" ColumnName="ID_Type_Note" />
+          <ScalarProperty Name="ID_Users" ColumnName="ID_Users" />
+          <ScalarProperty Name="Date" ColumnName="Date" />
+          <ScalarProperty Name="Discription" ColumnName="Discription" />
+          <ScalarProperty Name="Name" ColumnName="Name" />
+          <ScalarProperty Name="ID_Note" ColumnName="ID_Note" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Diplom_Type_habit">
+      <EntityTypeMapping TypeName="user187_dbModel.Diplom_Type_habit">
+        <MappingFragment StoreEntitySet="Diplom_Type_habit">
+          <ScalarProperty Name="Name" ColumnName="Name" />
+          <ScalarProperty Name="ID_Habit" ColumnName="ID_Habit" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Diplom_UserRole">
+      <EntityTypeMapping TypeName="user187_dbModel.Diplom_UserRole">
+        <MappingFragment StoreEntitySet="Diplom_UserRole">
+          <ScalarProperty Name="NameRole" ColumnName="NameRole" />
+          <ScalarProperty Name="ID_Role" ColumnName="ID_Role" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Diplom_Users">
+      <EntityTypeMapping TypeName="user187_dbModel.Diplom_Users">
+        <MappingFragment StoreEntitySet="Diplom_Users">
+          <ScalarProperty Name="Photo" ColumnName="Photo" />
+          <ScalarProperty Name="ID_Role" ColumnName="ID_Role" />
+          <ScalarProperty Name="Password" ColumnName="Password" />
+          <ScalarProperty Name="Login" ColumnName="Login" />
+          <ScalarProperty Name="Telephone" ColumnName="Telephone" />
+          <ScalarProperty Name="Middle_name" ColumnName="Middle_name" />
+          <ScalarProperty Name="Surname" ColumnName="Surname" />
+          <ScalarProperty Name="Name" ColumnName="Name" />
+          <ScalarProperty Name="ID_Users" ColumnName="ID_Users" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Diplom_Users_Habit">
+      <EntityTypeMapping TypeName="user187_dbModel.Diplom_Users_Habit">
+        <MappingFragment StoreEntitySet="Diplom_Users_Habit">
+          <ScalarProperty Name="ID_Users_Habit" ColumnName="ID_Users_Habit" />
+          <ScalarProperty Name="Record" ColumnName="Record" />
+          <ScalarProperty Name="Amount_of_day" ColumnName="Amount_of_day" />
+          <ScalarProperty Name="Attempt" ColumnName="Attempt" />
+          <ScalarProperty Name="Date_start" ColumnName="Date_start" />
+          <ScalarProperty Name="ID_Habit" ColumnName="ID_Habit" />
+          <ScalarProperty Name="ID_Users" ColumnName="ID_Users" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Note_Type">
+      <EntityTypeMapping TypeName="user187_dbModel.Note_Type">
+        <MappingFragment StoreEntitySet="Note_Type">
+          <ScalarProperty Name="Name" ColumnName="Name" />
+          <ScalarProperty Name="ID_Type_Note" ColumnName="ID_Type_Note" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>
